@@ -1,0 +1,2031 @@
+ISO,Country Name,Year,Sex,Overweight,Wasting,Stunting,Mean,Continent
+AFG,Afghanistan,2004,0,6.3,10.8,92.6,36.56666667,Asia
+AFG,Afghanistan,2004,1,2.6,13.6,89.4,35.2,Asia
+AFG,Afghanistan,2004,999,4.6,12.1,91.1,35.93333333,Asia
+AFG,Afghanistan,2013,0,4.9,14.8,62.3,27.33333333,Asia
+AFG,Afghanistan,2013,1,5.8,12.2,59.4,25.8,Asia
+AFG,Afghanistan,2013,999,5.3,13.5,60.8,26.53333333,Asia
+AFG,Afghanistan,2018,0,4,7.8,57.1,22.96666667,Asia
+AFG,Afghanistan,2018,1,4.2,5.5,58.1,22.6,Asia
+AFG,Afghanistan,2018,999,4.1,6.7,57.6,22.8,Asia
+AGO,Angola,1996,0,2.2,9.4,99.9,37.16666667,Africa
+AGO,Angola,1996,1,1.3,9.6,92,34.3,Africa
+AGO,Angola,1996,999,1.7,9.5,96,35.73333333,Africa
+AGO,Angola,2015,0,3.1,6.9,58.2,22.73333333,Africa
+AGO,Angola,2015,1,3.6,5.2,47.2,18.66666667,Africa
+AGO,Angola,2015,999,3.4,6,52.8,20.73333333,Africa
+ALB,Albania,2000,0,29.4,19.8,66.7,38.63333333,Europe
+ALB,Albania,2000,1,30.7,17,59.2,35.63333333,Europe
+ALB,Albania,2000,999,30.1,18.4,63,37.16666667,Europe
+ALB,Albania,2005,0,24.5,10.6,41.5,25.53333333,Europe
+ALB,Albania,2005,1,25.2,11.6,34.3,23.7,Europe
+ALB,Albania,2005,999,24.8,11,38.2,24.66666667,Europe
+ALB,Albania,2009,0,23.2,19.4,36.9,26.5,Europe
+ALB,Albania,2009,1,23.3,11.6,38.7,24.53333333,Europe
+ALB,Albania,2009,999,23.2,15.5,37.8,25.5,Europe
+ALB,Albania,2017,0,17.4,1.6,15.5,11.5,Europe
+ALB,Albania,2017,1,15.4,2.7,15,11.03333333,Europe
+ALB,Albania,2017,999,16.4,2.1,15.2,11.23333333,Europe
+ARG,Argentina,2005,0,10.2,1.3,9.8,7.1,Americas
+ARG,Argentina,2005,1,9.5,1.6,10,7.033333333,Americas
+ARG,Argentina,2005,999,9.9,1.4,10,7.1,Americas
+ARM,Armenia,1998,0,10.4,5.6,20.2,12.06666667,Asia
+ARM,Armenia,1998,1,11.4,2.7,22.9,12.33333333,Asia
+ARM,Armenia,1998,999,10.8,4.3,21.4,12.16666667,Asia
+ARM,Armenia,2000,0,19.4,3.6,23.4,15.46666667,Asia
+ARM,Armenia,2000,1,10.7,2.9,20.9,11.5,Asia
+ARM,Armenia,2000,999,15.7,3.2,22.3,13.73333333,Asia
+ARM,Armenia,2005,0,13.3,8.5,22.3,14.7,Asia
+ARM,Armenia,2005,1,9,7.4,23.3,13.23333333,Asia
+ARM,Armenia,2005,999,11.4,8,22.8,14.06666667,Asia
+ARM,Armenia,2010,0,18.3,7.3,31.2,18.93333333,Asia
+ARM,Armenia,2010,1,14.4,4.7,30.2,16.43333333,Asia
+ARM,Armenia,2010,999,16.5,6.1,30.7,17.76666667,Asia
+ARM,Armenia,2016,0,14.6,5.6,15.4,11.86666667,Asia
+ARM,Armenia,2016,1,12.7,6.9,10.7,10.1,Asia
+ARM,Armenia,2016,999,13.7,6.1,13.2,11,Asia
+AZE,Azerbaijan,2000,0,6.7,13.4,35,18.36666667,Asia
+AZE,Azerbaijan,2000,1,5.7,12.8,33.9,17.46666667,Asia
+AZE,Azerbaijan,2000,999,6.2,13.1,34.5,17.93333333,Asia
+AZE,Azerbaijan,2006,0,14.9,10.9,43,22.93333333,Asia
+AZE,Azerbaijan,2006,1,12.7,6.7,36.5,18.63333333,Asia
+AZE,Azerbaijan,2006,999,13.9,9,39.9,20.93333333,Asia
+AZE,Azerbaijan,2011,0,11.2,10.7,25.2,15.7,Asia
+AZE,Azerbaijan,2011,1,9.3,8.2,22.5,13.33333333,Asia
+AZE,Azerbaijan,2011,999,10.4,9.5,24,14.63333333,Asia
+AZE,Azerbaijan,2013,0,15.1,5.4,26.6,15.7,Asia
+AZE,Azerbaijan,2013,1,12.8,2.8,24,13.2,Asia
+AZE,Azerbaijan,2013,999,14.1,4.3,25.5,14.63333333,Asia
+BDI,Burundi,2000,0,1.8,11.4,104.6,39.26666667,Africa
+BDI,Burundi,2000,1,1.3,8.1,92.9,34.1,Africa
+BDI,Burundi,2000,999,1.5,9.7,98.6,36.6,Africa
+BDI,Burundi,2010,0,3.1,7.6,93.8,34.83333333,Africa
+BDI,Burundi,2010,1,2.7,7.1,75.2,28.33333333,Africa
+BDI,Burundi,2010,999,2.9,7.4,84.7,31.66666667,Africa
+BDI,Burundi,2016,0,1.5,6.8,87.1,31.8,Africa
+BDI,Burundi,2016,1,1.2,5.2,74.8,27.06666667,Africa
+BDI,Burundi,2016,999,1.4,6,80.9,29.43333333,Africa
+BDI,Burundi,2018,0,1.9,6.3,88.4,32.2,Africa
+BDI,Burundi,2018,1,1.6,5,75.1,27.23333333,Africa
+BDI,Burundi,2018,999,1.8,5.6,81.7,29.7,Africa
+BDI,Burundi,2019,0,3,6.8,84.6,31.46666667,Africa
+BDI,Burundi,2019,1,2.6,4.8,72.8,26.73333333,Africa
+BDI,Burundi,2019,999,2.8,5.8,78.6,29.06666667,Africa
+BEL,Belgium,2014,0,2.4,0,0,0.8,Europe
+BEL,Belgium,2014,1,5.4,0.8,3.9,3.366666667,Europe
+BEL,Belgium,2014,999,3.9,0.4,2,2.1,Europe
+BEN,Benin,2001,0,3.5,14,53.1,23.53333333,Africa
+BEN,Benin,2001,1,2.7,10.3,48.1,20.36666667,Africa
+BEN,Benin,2001,999,3.1,12.1,50.7,21.96666667,Africa
+BEN,Benin,2008,0,1.6,7.3,56.4,21.76666667,Africa
+BEN,Benin,2008,1,1.4,4.9,45,17.1,Africa
+BEN,Benin,2008,999,1.5,6.1,50.9,19.5,Africa
+BEN,Benin,2014,0,2.2,6.3,49.2,19.23333333,Africa
+BEN,Benin,2014,1,1.3,4.4,43.2,16.3,Africa
+BEN,Benin,2014,999,1.7,5.4,46.1,17.73333333,Africa
+BEN,Benin,2018,0,1.8,6.9,47.5,18.73333333,Africa
+BEN,Benin,2018,1,1.9,5.1,38.5,15.16666667,Africa
+BEN,Benin,2018,999,1.9,6.1,43.1,17.03333333,Africa
+BFA,Burkina Faso,1993,0,2.9,21.9,59.3,28.03333333,Africa
+BFA,Burkina Faso,1993,1,2.8,20.8,51.4,25,Africa
+BFA,Burkina Faso,1993,999,2.8,21.3,55.4,26.5,Africa
+BFA,Burkina Faso,1999,0,2.2,23.9,65,30.36666667,Africa
+BFA,Burkina Faso,1999,1,1.6,18.2,57.3,25.7,Africa
+BFA,Burkina Faso,1999,999,1.9,21.1,61.3,28.1,Africa
+BFA,Burkina Faso,2010,0,2.7,23,53.4,26.36666667,Africa
+BFA,Burkina Faso,2010,1,2.9,19.8,45.6,22.76666667,Africa
+BFA,Burkina Faso,2010,999,2.8,21.4,49.6,24.6,Africa
+BFA,Burkina Faso,2011,0,0.8,14.3,52.6,22.56666667,Africa
+BFA,Burkina Faso,2011,1,0.6,10.8,40.7,17.36666667,Africa
+BFA,Burkina Faso,2011,999,0.7,12.6,46.8,20.03333333,Africa
+BFA,Burkina Faso,2012,0,0.7,14.9,49.5,21.7,Africa
+BFA,Burkina Faso,2012,1,0.4,10.1,36.6,15.7,Africa
+BFA,Burkina Faso,2012,999,0.6,12.5,43.2,18.76666667,Africa
+BFA,Burkina Faso,2013,0,1,10.5,44.5,18.66666667,Africa
+BFA,Burkina Faso,2013,1,0.6,8.7,36.2,15.16666667,Africa
+BFA,Burkina Faso,2013,999,0.8,9.7,40.4,16.96666667,Africa
+BFA,Burkina Faso,2014,0,1.3,11.3,41.1,17.9,Africa
+BFA,Burkina Faso,2014,1,1,9.1,33.3,14.46666667,Africa
+BFA,Burkina Faso,2014,999,1.1,10.2,37.3,16.2,Africa
+BFA,Burkina Faso,2015,0,1,13.7,44.1,19.6,Africa
+BFA,Burkina Faso,2015,1,0.8,10.8,34.2,15.26666667,Africa
+BFA,Burkina Faso,2015,999,0.9,12.3,39.3,17.5,Africa
+BFA,Burkina Faso,2016,0,1.2,10.3,39.3,16.93333333,Africa
+BFA,Burkina Faso,2016,1,1.3,7.3,28.4,12.33333333,Africa
+BFA,Burkina Faso,2016,999,1.2,8.9,34,14.7,Africa
+BFA,Burkina Faso,2017,0,2,11.8,29.3,14.36666667,Africa
+BFA,Burkina Faso,2017,1,1.3,9.2,23.8,11.43333333,Africa
+BFA,Burkina Faso,2017,999,1.7,10.5,26.6,12.93333333,Africa
+BFA,Burkina Faso,2018,0,1,11.5,35.6,16.03333333,Africa
+BFA,Burkina Faso,2018,1,1,8.5,27.8,12.43333333,Africa
+BFA,Burkina Faso,2018,999,1,10.1,31.8,14.3,Africa
+BFA,Burkina Faso,2019,0,1.5,10.3,34.1,15.3,Africa
+BFA,Burkina Faso,2019,1,1.7,7.9,27.2,12.26666667,Africa
+BFA,Burkina Faso,2019,999,1.6,9.1,30.7,13.8,Africa
+BGD,Bangladesh,1997,0,2.1,29.8,93.7,41.86666667,Asia
+BGD,Bangladesh,1997,1,2.6,25.3,92.2,40.03333333,Asia
+BGD,Bangladesh,1997,999,2.4,27.5,93,40.96666667,Asia
+BGD,Bangladesh,2000,0,1,15.7,75.4,30.7,Asia
+BGD,Bangladesh,2000,1,0.8,14.2,74.1,29.7,Asia
+BGD,Bangladesh,2000,999,0.9,15,74.7,30.2,Asia
+BGD,Bangladesh,2004,0,0.8,19.4,74.2,31.46666667,Asia
+BGD,Bangladesh,2004,1,1.1,16.8,70.9,29.6,Asia
+BGD,Bangladesh,2004,999,0.9,18.1,72.6,30.53333333,Asia
+BGD,Bangladesh,2007,0,1.2,21.7,60.2,27.7,Asia
+BGD,Bangladesh,2007,1,1,19,58.6,26.2,Asia
+BGD,Bangladesh,2007,999,1.1,20.4,59.4,26.96666667,Asia
+BGD,Bangladesh,2011,0,1.7,20.3,55.5,25.83333333,Asia
+BGD,Bangladesh,2011,1,2.1,19.3,58,26.46666667,Asia
+BGD,Bangladesh,2011,999,1.9,19.8,56.7,26.13333333,Asia
+BGD,Bangladesh,2013,0,2.3,18,57.7,26,Asia
+BGD,Bangladesh,2013,1,1.8,16.15,55.1,24.35,Asia
+BGD,Bangladesh,2013,999,2.1,17.1,56.4,25.2,Asia
+BGD,Bangladesh,2014,0,1.6,19,48.8,23.13333333,Asia
+BGD,Bangladesh,2014,1,1.5,16.1,47.1,21.56666667,Asia
+BGD,Bangladesh,2014,999,1.6,17.6,48,22.4,Asia
+BGD,Bangladesh,2018,0,2.6,10.8,39.9,17.76666667,Asia
+BGD,Bangladesh,2018,1,1.8,8.9,39.7,16.8,Asia
+BGD,Bangladesh,2018,999,2.2,9.9,39.8,17.3,Asia
+BGD,Bangladesh,2019,0,2.6,12.9,37,17.5,Asia
+BGD,Bangladesh,2019,1,2.3,11.2,36.5,16.66666667,Asia
+BGD,Bangladesh,2019,999,2.4,12.1,36.8,17.1,Asia
+BGR,Bulgaria,2007,0,7.6,5.9,11.6,8.366666667,Europe
+BGR,Bulgaria,2007,1,6.1,5.7,12,7.933333333,Europe
+BGR,Bulgaria,2007,999,6.9,5.8,11.8,8.166666667,Europe
+BGR,Bulgaria,2014,0,9.6,9.5,17.8,12.3,Europe
+BGR,Bulgaria,2014,1,4.1,8.2,5.5,5.933333333,Europe
+BGR,Bulgaria,2014,999,6.9,8.8,12.1,9.266666667,Europe
+BIH,Bosnia and Herzegovina,2000,0,16.7,12,18.4,15.7,Europe
+BIH,Bosnia and Herzegovina,2000,1,15.9,9.5,14.9,13.43333333,Europe
+BIH,Bosnia and Herzegovina,2000,999,16.3,10.9,16.7,14.63333333,Europe
+BIH,Bosnia and Herzegovina,2006,0,27.4,5.7,18.6,17.23333333,Europe
+BIH,Bosnia and Herzegovina,2006,1,24,5.4,16.2,15.2,Europe
+BIH,Bosnia and Herzegovina,2006,999,25.7,5.5,17.5,16.23333333,Europe
+BIH,Bosnia and Herzegovina,2012,0,16.7,4.1,13.1,11.3,Europe
+BIH,Bosnia and Herzegovina,2012,1,18,3.8,12.4,11.4,Europe
+BIH,Bosnia and Herzegovina,2012,999,17.4,3.9,12.7,11.33333333,Europe
+BLR,Belarus,2005,0,11.3,3.4,6.4,7.033333333,Europe
+BLR,Belarus,2005,1,8.1,2.2,4.9,5.066666667,Europe
+BLR,Belarus,2005,999,9.7,2.8,5.7,6.066666667,Europe
+BLZ,Belize,2006,0,15.7,3.9,30.9,16.83333333,Americas
+BLZ,Belize,2006,1,11.8,1.7,27.5,13.66666667,Americas
+BLZ,Belize,2006,999,13.6,2.7,29.1,15.13333333,Americas
+BLZ,Belize,2011,0,8.6,4.1,24.3,12.33333333,Americas
+BLZ,Belize,2011,1,7.1,4.9,25.2,12.4,Americas
+BLZ,Belize,2011,999,7.9,4.5,24.7,12.36666667,Americas
+BLZ,Belize,2015,0,8,2.7,18.9,9.866666667,Americas
+BLZ,Belize,2015,1,6.5,1.8,16.1,8.133333333,Americas
+BLZ,Belize,2015,999,7.3,2.3,17.6,9.066666667,Americas
+BOL,Bolivia (Plurinational State of),1998,0,11.4,2.6,49.2,21.06666667,Americas
+BOL,Bolivia (Plurinational State of),1998,1,9.9,2.1,43.3,18.43333333,Americas
+BOL,Bolivia (Plurinational State of),1998,999,10.7,2.3,46.3,19.76666667,Americas
+BOL,Bolivia (Plurinational State of),2003,0,9.1,2.6,45.3,19,Americas
+BOL,Bolivia (Plurinational State of),2003,1,9.3,2.1,42,17.8,Americas
+BOL,Bolivia (Plurinational State of),2003,999,9.2,2.3,43.7,18.4,Americas
+BOL,Bolivia (Plurinational State of),2008,0,9.2,2.6,36.3,16.03333333,Americas
+BOL,Bolivia (Plurinational State of),2008,1,8.1,1.2,33.7,14.33333333,Americas
+BOL,Bolivia (Plurinational State of),2008,999,8.7,1.9,35,15.2,Americas
+BOL,Bolivia (Plurinational State of),2012,0,7.9,2.7,25.2,11.93333333,Americas
+BOL,Bolivia (Plurinational State of),2012,1,6.8,1.4,19.4,9.2,Americas
+BOL,Bolivia (Plurinational State of),2012,999,7.4,2,22.3,10.56666667,Americas
+BOL,Bolivia (Plurinational State of),2016,0,11.1,3.6,20.5,11.73333333,Americas
+BOL,Bolivia (Plurinational State of),2016,1,9.2,2.1,20.4,10.56666667,Americas
+BOL,Bolivia (Plurinational State of),2016,999,10.1,2.9,20.4,11.13333333,Americas
+BRA,Brazil,1989,0,7.9,4,27.8,13.23333333,Americas
+BRA,Brazil,1989,1,6.9,2.7,24.6,11.4,Americas
+BRA,Brazil,1989,999,7.4,3.3,26.2,12.3,Americas
+BRA,Brazil,1996,0,6.8,4,19.6,10.13333333,Americas
+BRA,Brazil,1996,1,5.3,3.6,14.1,7.666666667,Americas
+BRA,Brazil,1996,999,6.1,3.8,16.9,8.933333333,Americas
+BRA,Brazil,2007,0,6,2.3,9.2,5.833333333,Americas
+BRA,Brazil,2007,1,6.8,2.1,7.1,5.333333333,Americas
+BRA,Brazil,2007,999,6.4,2.2,8.3,5.633333333,Americas
+BRB,Barbados,2012,0,11.3,10.5,12.9,11.56666667,Americas
+BRB,Barbados,2012,1,13.3,6.7,8.4,9.466666667,Americas
+BRB,Barbados,2012,999,12.2,8.8,10.8,10.6,Americas
+BRN,Brunei Darussalam,2009,0,8.9,3.1,29.7,13.9,Asia
+BRN,Brunei Darussalam,2009,1,7.8,3.5,19.5,10.26666667,Asia
+BRN,Brunei Darussalam,2009,999,8.3,3.3,24.5,12.03333333,Asia
+BTN,Bhutan,1999,0,4.6,4.2,74.1,27.63333333,Asia
+BTN,Bhutan,1999,1,3.3,2.4,60.3,22,Asia
+BTN,Bhutan,1999,999,3.9,3.3,67.2,24.8,Asia
+BTN,Bhutan,2008,0,5.9,6.6,49.8,20.76666667,Asia
+BTN,Bhutan,2008,1,4.9,5,43.6,17.83333333,Asia
+BTN,Bhutan,2008,999,5.4,5.9,46.9,19.4,Asia
+BTN,Bhutan,2010,0,7.5,8.4,47,20.96666667,Asia
+BTN,Bhutan,2010,1,7.6,7.4,46.7,20.56666667,Asia
+BTN,Bhutan,2010,999,7.6,7.9,46.8,20.76666667,Asia
+BWA,Botswana,2000,0,10.1,9.3,44.7,21.36666667,Africa
+BWA,Botswana,2000,1,10.1,8,36.9,18.33333333,Africa
+BWA,Botswana,2000,999,10.1,8.6,40.7,19.8,Africa
+BWA,Botswana,2007,0,9.6,10,46,21.86666667,Africa
+BWA,Botswana,2007,1,10.3,10.6,37,19.3,Africa
+BWA,Botswana,2007,999,10,10.3,41.5,20.6,Africa
+CAF,Central African Republic,2000,0,10.6,17,72.5,33.36666667,Africa
+CAF,Central African Republic,2000,1,11,13.1,64.1,29.4,Africa
+CAF,Central African Republic,2000,999,10.8,15.1,68.3,31.4,Africa
+CAF,Central African Republic,2006,0,8.3,18.2,74.2,33.56666667,Africa
+CAF,Central African Republic,2006,1,9,16,62.9,29.3,Africa
+CAF,Central African Republic,2006,999,8.6,17.1,68.7,31.46666667,Africa
+CAF,Central African Republic,2010,0,2,11.1,64.1,25.73333333,Africa
+CAF,Central African Republic,2010,1,1.7,7.5,54,21.06666667,Africa
+CAF,Central African Republic,2010,999,1.8,9.3,59,23.36666667,Africa
+CAF,Central African Republic,2012,0,2.2,10.7,61.1,24.66666667,Africa
+CAF,Central African Republic,2012,1,1.8,7.2,52.5,20.5,Africa
+CAF,Central African Republic,2012,999,2,9,56.8,22.6,Africa
+CAF,Central African Republic,2014,0,2.3,8.8,58.7,23.26666667,Africa
+CAF,Central African Republic,2014,1,1.9,6.1,47.1,18.36666667,Africa
+CAF,Central African Republic,2014,999,2.1,7.5,53.1,20.9,Africa
+CAF,Central African Republic,2018,0,1.3,9.1,58.2,22.86666667,Africa
+CAF,Central African Republic,2018,1,0.7,7,46,17.9,Africa
+CAF,Central African Republic,2018,999,1,8.1,52.2,20.43333333,Africa
+CAF,Central African Republic,2019,0,2.5,7.35,63.15,24.33333333,Africa
+CAF,Central African Republic,2019,1,2.2,5.7,54.05,20.65,Africa
+CAF,Central African Republic,2019,999,2.35,6.5,58.55,22.46666667,Africa
+CHN,China,1990,0,5.3,6.1,45.6,19,Asia
+CHN,China,1990,1,5.4,5.2,47.3,19.3,Asia
+CHN,China,1990,999,5.3,5.6,46.4,19.1,Asia
+CHN,China,1992,0,7.4,5.5,56.2,23.03333333,Asia
+CHN,China,1992,1,6.9,4.8,52.3,21.33333333,Asia
+CHN,China,1992,999,7.2,5.2,54.4,22.26666667,Asia
+CHN,China,1995,0,13.3,7.9,47.7,22.96666667,Asia
+CHN,China,1995,1,13.8,5.5,43.9,21.06666667,Asia
+CHN,China,1995,999,13.6,6.8,45.9,22.1,Asia
+CHN,China,1998,0,6.1,3.2,26.4,11.9,Asia
+CHN,China,1998,1,4.8,2.7,24.6,10.7,Asia
+CHN,China,1998,999,5.5,3,25.6,11.36666667,Asia
+CHN,China,2000,0,3.9,3.3,23.9,10.36666667,Asia
+CHN,China,2000,1,2.8,2.5,22.3,9.2,Asia
+CHN,China,2000,999,3.4,3,23.1,9.833333333,Asia
+CHN,China,2002,0,9.9,4.3,31.2,15.13333333,Asia
+CHN,China,2002,1,8.2,3.4,28.2,13.26666667,Asia
+CHN,China,2002,999,9.2,3.8,29.8,14.26666667,Asia
+CHN,China,2005,0,6.5,4.2,16.3,9,Asia
+CHN,China,2005,1,5.2,2.9,13.8,7.3,Asia
+CHN,China,2005,999,5.9,3.7,15.1,8.233333333,Asia
+CHN,China,2010,0,7.5,3.2,12.8,7.833333333,Asia
+CHN,China,2010,1,5.6,2.7,11.1,6.466666667,Asia
+CHN,China,2010,999,6.6,3,12,7.2,Asia
+CIV,Côte d'Ivoire,1986,0,5.9,11.9,31.8,16.53333333,Africa
+CIV,Côte d'Ivoire,1986,1,5.8,10.6,22.9,13.1,Africa
+CIV,Côte d'Ivoire,1986,999,5.8,11.2,27.4,14.8,Africa
+CIV,Côte d'Ivoire,1998,0,5.2,8.9,44.3,19.46666667,Africa
+CIV,Côte d'Ivoire,1998,1,4,8.6,43.3,18.63333333,Africa
+CIV,Côte d'Ivoire,1998,999,4.6,8.8,43.8,19.06666667,Africa
+CIV,Côte d'Ivoire,2007,0,5,21.8,58.8,28.53333333,Africa
+CIV,Côte d'Ivoire,2007,1,4.9,16.5,55.1,25.5,Africa
+CIV,Côte d'Ivoire,2007,999,4.9,19.4,57,27.1,Africa
+CIV,Côte d'Ivoire,2012,0,3.5,11.6,46.2,20.43333333,Africa
+CIV,Côte d'Ivoire,2012,1,3,7.3,38.6,16.3,Africa
+CIV,Côte d'Ivoire,2012,999,3.2,9.4,42.3,18.3,Africa
+CIV,Côte d'Ivoire,2016,0,1.8,8.1,30.9,13.6,Africa
+CIV,Côte d'Ivoire,2016,1,1.1,6.5,25.9,11.16666667,Africa
+CIV,Côte d'Ivoire,2016,999,1.5,7.3,28.4,12.4,Africa
+CMR,Cameroon,1991,0,6,5.7,47.4,19.7,Africa
+CMR,Cameroon,1991,1,3.4,5.6,41.1,16.7,Africa
+CMR,Cameroon,1991,999,4.7,5.6,44.3,18.2,Africa
+CMR,Cameroon,2004,0,10.3,8.3,54.4,24.33333333,Africa
+CMR,Cameroon,2004,1,7.2,8.7,50.2,22.03333333,Africa
+CMR,Cameroon,2004,999,8.7,8.5,52.3,23.16666667,Africa
+CMR,Cameroon,2006,0,10.2,11.4,60.3,27.3,Africa
+CMR,Cameroon,2006,1,10.8,8.9,50.2,23.3,Africa
+CMR,Cameroon,2006,999,10.5,10.2,55.3,25.33333333,Africa
+CMR,Cameroon,2011,0,7.7,9.1,51.8,22.86666667,Africa
+CMR,Cameroon,2011,1,5.3,6.3,42.5,18.03333333,Africa
+CMR,Cameroon,2011,999,6.5,7.7,47.1,20.43333333,Africa
+CMR,Cameroon,2014,0,7.1,7.1,47.5,20.56666667,Africa
+CMR,Cameroon,2014,1,6.2,5.9,41.4,17.83333333,Africa
+CMR,Cameroon,2014,999,6.7,6.5,44.6,19.26666667,Africa
+CMR,Cameroon,2018,0,12.2,6.6,45.8,21.53333333,Africa
+CMR,Cameroon,2018,1,9.7,5.2,39,17.96666667,Africa
+CMR,Cameroon,2018,999,11,5.9,42.4,19.76666667,Africa
+COD,Democratic Republic of the Congo,2001,0,6.8,23.8,74.3,34.96666667,Africa
+COD,Democratic Republic of the Congo,2001,1,6.6,20,64.9,30.5,Africa
+COD,Democratic Republic of the Congo,2001,999,6.7,22,69.6,32.76666667,Africa
+COD,Democratic Republic of the Congo,2007,0,6.7,17.6,74.6,32.96666667,Africa
+COD,Democratic Republic of the Congo,2007,1,7.4,12.8,67.2,29.13333333,Africa
+COD,Democratic Republic of the Congo,2007,999,7,15.2,70.9,31.03333333,Africa
+COD,Democratic Republic of the Congo,2010,0,5.1,12.5,71.9,29.83333333,Africa
+COD,Democratic Republic of the Congo,2010,1,4.7,10.1,59.3,24.7,Africa
+COD,Democratic Republic of the Congo,2010,999,4.9,11.3,65.6,27.26666667,Africa
+COD,Democratic Republic of the Congo,2013,0,4.5,12.6,70,29.03333333,Africa
+COD,Democratic Republic of the Congo,2013,1,4.4,9.3,60.6,24.76666667,Africa
+COD,Democratic Republic of the Congo,2013,999,4.4,11,65.3,26.9,Africa
+COD,Democratic Republic of the Congo,2017,0,3.8,9.2,68.9,27.3,Africa
+COD,Democratic Republic of the Congo,2017,1,3.8,7.8,56.7,22.76666667,Africa
+COD,Democratic Republic of the Congo,2017,999,3.8,8.4,62.6,24.93333333,Africa
+COG,Congo,2005,0,8.5,11.6,51,23.7,Africa
+COG,Congo,2005,1,8.6,10.6,41.8,20.33333333,Africa
+COG,Congo,2005,999,8.5,11,46.5,22,Africa
+COG,Congo,2011,0,3.5,7.9,33.2,14.86666667,Africa
+COG,Congo,2011,1,3.5,7.6,31.9,14.33333333,Africa
+COG,Congo,2011,999,3.5,7.7,32.5,14.56666667,Africa
+COG,Congo,2014,0,4.8,11.8,30.8,15.8,Africa
+COG,Congo,2014,1,7,9.8,28,14.93333333,Africa
+COG,Congo,2014,999,5.9,10.8,29.4,15.36666667,Africa
+COL,Colombia,1995,0,4.9,2.2,27.8,11.63333333,Americas
+COL,Colombia,1995,1,4.1,2.3,21.6,9.333333333,Americas
+COL,Colombia,1995,999,4.5,2.2,24.7,10.46666667,Americas
+COL,Colombia,2000,0,6.3,1.5,23.9,10.56666667,Americas
+COL,Colombia,2000,1,4.3,1.3,20.9,8.833333333,Americas
+COL,Colombia,2000,999,5.3,1.4,22.4,9.7,Americas
+COL,Colombia,2005,0,4.2,2.1,21.3,9.2,Americas
+COL,Colombia,2005,1,4.1,1.9,17.3,7.766666667,Americas
+COL,Colombia,2005,999,4.2,2,19.3,8.5,Americas
+COL,Colombia,2010,0,5.4,1.1,16.7,7.733333333,Americas
+COL,Colombia,2010,1,4.2,1.1,13.5,6.266666667,Americas
+COL,Colombia,2010,999,4.8,1.1,15.2,7.033333333,Americas
+COL,Colombia,2016,0,6.7,2,18.3,9,Americas
+COL,Colombia,2016,1,4.7,2.1,12.9,6.566666667,Americas
+COL,Colombia,2016,999,5.7,2,15.6,7.766666667,Americas
+COM,Comoros,2000,0,20.9,22.8,75.6,39.76666667,Africa
+COM,Comoros,2000,1,22.2,18,77.1,39.1,Africa
+COM,Comoros,2000,999,21.5,20.5,76.3,39.43333333,Africa
+COM,Comoros,2012,0,11.2,15.7,50.8,25.9,Africa
+COM,Comoros,2012,1,10,15.6,43.9,23.16666667,Africa
+COM,Comoros,2012,999,10.6,15.7,47.3,24.53333333,Africa
+CRI,Costa Rica,2018,0,8.2,1.9,10.9,7,Americas
+CRI,Costa Rica,2018,1,6.9,2,8.7,5.866666667,Americas
+CRI,Costa Rica,2018,999,7.5,1.9,9.9,6.433333333,Americas
+CUB,Cuba,2019,0,11.9,2.6,8.3,7.6,Americas
+CUB,Cuba,2019,1,8.7,2.7,6.6,6,Americas
+CUB,Cuba,2019,999,10.3,2.6,7.5,6.8,Americas
+CZE,Czechia,2001,0,4.7,6.4,3.9,5,Europe
+CZE,Czechia,2001,1,4.1,4.9,2.7,3.9,Europe
+CZE,Czechia,2001,999,4.4,5.6,3.3,4.433333333,Europe
+DEU,Germany,2004,0,3.6,1.5,1.8,2.3,Europe
+DEU,Germany,2004,1,3.3,0.8,1.4,1.833333333,Europe
+DEU,Germany,2004,999,3.5,1.1,1.5,2.033333333,Europe
+DJI,Djibouti,2002,0,7.9,30.2,41.1,26.4,Africa
+DJI,Djibouti,2002,1,8.8,27.8,39,25.2,Africa
+DJI,Djibouti,2002,999,8.4,29,40,25.8,Africa
+DJI,Djibouti,2012,0,7.8,33,52.6,31.13333333,Africa
+DJI,Djibouti,2012,1,8.5,28.2,52.1,29.6,Africa
+DJI,Djibouti,2012,999,8.1,30.7,52.3,30.36666667,Africa
+DOM,Dominican Republic,1991,0,4.2,2.9,32,13.03333333,Americas
+DOM,Dominican Republic,1991,1,4.4,2.6,23.9,10.3,Americas
+DOM,Dominican Republic,1991,999,4.3,2.7,28.1,11.7,Americas
+DOM,Dominican Republic,1996,0,7.1,3.3,20.5,10.3,Americas
+DOM,Dominican Republic,1996,1,6.2,2,14.3,7.5,Americas
+DOM,Dominican Republic,1996,999,6.7,2.6,17.5,8.933333333,Americas
+DOM,Dominican Republic,2000,0,6.6,2.1,11.7,6.8,Americas
+DOM,Dominican Republic,2000,1,7.1,1.8,7.5,5.466666667,Americas
+DOM,Dominican Republic,2000,999,6.9,2,9.8,6.233333333,Americas
+DOM,Dominican Republic,2002,0,9.1,3.5,17.6,10.06666667,Americas
+DOM,Dominican Republic,2002,1,8.1,2.6,13.2,7.966666667,Americas
+DOM,Dominican Republic,2002,999,8.6,3,15.4,9,Americas
+DOM,Dominican Republic,2006,0,7.1,2.2,12.4,7.233333333,Americas
+DOM,Dominican Republic,2006,1,5.4,2.1,8.3,5.266666667,Americas
+DOM,Dominican Republic,2006,999,6.2,2.1,10.4,6.233333333,Americas
+DOM,Dominican Republic,2007,0,9.1,3.6,13.7,8.8,Americas
+DOM,Dominican Republic,2007,1,7.5,2.7,11.2,7.133333333,Americas
+DOM,Dominican Republic,2007,999,8.3,3.2,12.6,8.033333333,Americas
+DOM,Dominican Republic,2013,0,7.9,4.1,10.4,7.466666667,Americas
+DOM,Dominican Republic,2013,1,7.3,2.4,8,5.9,Americas
+DOM,Dominican Republic,2013,999,7.6,3.2,9.2,6.666666667,Americas
+DZA,Algeria,1992,0,9,9.9,31.1,16.66666667,Africa
+DZA,Algeria,1992,1,8.4,10.4,30.8,16.53333333,Africa
+DZA,Algeria,1992,999,8.7,10.1,30.9,16.56666667,Africa
+DZA,Algeria,1995,0,13.8,14.2,33.2,20.4,Africa
+DZA,Algeria,1995,1,12.5,13.3,32,19.26666667,Africa
+DZA,Algeria,1995,999,13.2,13.8,32.7,19.9,Africa
+DZA,Algeria,2000,0,14.1,4.6,33.3,17.33333333,Africa
+DZA,Algeria,2000,1,15.4,3.8,29.9,16.36666667,Africa
+DZA,Algeria,2000,999,14.7,4.2,31.7,16.86666667,Africa
+DZA,Algeria,2002,0,15.7,15.1,38.6,23.13333333,Africa
+DZA,Algeria,2002,1,14.6,14.3,31.9,20.26666667,Africa
+DZA,Algeria,2002,999,15.1,14.6,35.2,21.63333333,Africa
+DZA,Algeria,2006,0,13.4,5.7,22.5,13.86666667,Africa
+DZA,Algeria,2006,1,12.4,6.1,18.7,12.4,Africa
+DZA,Algeria,2006,999,12.9,5.8,20.6,13.1,Africa
+DZA,Algeria,2012,0,12.9,6.1,17.2,12.06666667,Africa
+DZA,Algeria,2012,1,12,4.8,14.2,10.33333333,Africa
+DZA,Algeria,2012,999,12.4,5.5,15.8,11.23333333,Africa
+DZA,Algeria,2019,0,13.4,4.5,15.7,11.2,Africa
+DZA,Algeria,2019,1,12.1,3.4,10.7,8.733333333,Africa
+DZA,Algeria,2019,999,12.8,4,13.2,10,Africa
+ECU,Ecuador,1999,0,3,2.6,37.7,14.43333333,Americas
+ECU,Ecuador,1999,1,2,3.6,31,12.2,Americas
+ECU,Ecuador,1999,999,2.6,3.1,34.8,13.5,Americas
+ECU,Ecuador,2004,0,5.6,2.7,40.2,16.16666667,Americas
+ECU,Ecuador,2004,1,4.9,2.7,34.9,14.16666667,Americas
+ECU,Ecuador,2004,999,5.3,2.7,37.7,15.23333333,Americas
+ECU,Ecuador,2006,0,5.4,2.9,35.3,14.53333333,Americas
+ECU,Ecuador,2006,1,5,2.3,29,12.1,Americas
+ECU,Ecuador,2006,999,5.2,2.6,32.3,13.36666667,Americas
+ECU,Ecuador,2012,0,7.9,3.8,33.6,15.1,Americas
+ECU,Ecuador,2012,1,7.1,2.4,30.2,13.23333333,Americas
+ECU,Ecuador,2012,999,7.5,3.1,32,14.2,Americas
+ECU,Ecuador,2014,0,8.4,2.4,33.4,14.73333333,Americas
+ECU,Ecuador,2014,1,7.6,1.9,26.8,12.1,Americas
+ECU,Ecuador,2014,999,8,2.2,30.2,13.46666667,Americas
+ECU,Ecuador,2019,0,11.7,6.2,33.1,17,Americas
+ECU,Ecuador,2019,1,11.7,4,28.2,14.63333333,Americas
+ECU,Ecuador,2019,999,11.7,5.1,30.7,15.83333333,Americas
+EGY,Egypt,1991,0,15.9,8.3,53.3,25.83333333,Africa
+EGY,Egypt,1991,1,13.8,5.3,50.6,23.23333333,Africa
+EGY,Egypt,1991,999,14.9,6.8,52,24.56666667,Africa
+EGY,Egypt,1992,0,14.9,5.9,44.8,21.86666667,Africa
+EGY,Egypt,1992,1,13.7,5.8,43.4,20.96666667,Africa
+EGY,Egypt,1992,999,14.3,5.8,44.2,21.43333333,Africa
+EGY,Egypt,1995,0,14.7,8.5,55.3,26.16666667,Africa
+EGY,Egypt,1995,1,14.5,7.4,49.6,23.83333333,Africa
+EGY,Egypt,1995,999,14.6,8,52.5,25.03333333,Africa
+EGY,Egypt,2003,0,8.9,7.1,31.7,15.9,Africa
+EGY,Egypt,2003,1,9.4,7.1,24.9,13.8,Africa
+EGY,Egypt,2003,999,9.2,7,28.4,14.86666667,Africa
+EGY,Egypt,2005,0,14.4,8.2,36.7,19.76666667,Africa
+EGY,Egypt,2005,1,13.8,7.4,31.7,17.63333333,Africa
+EGY,Egypt,2005,999,14.1,7.8,34.2,18.7,Africa
+EGY,Egypt,2008,0,19.7,12.7,51.2,27.86666667,Africa
+EGY,Egypt,2008,1,21.2,10.7,42.2,24.7,Africa
+EGY,Egypt,2008,999,20.4,11.7,46.8,26.3,Africa
+EGY,Egypt,2014,0,16.3,14.2,35.3,21.93333333,Africa
+EGY,Egypt,2014,1,15,14.2,30.7,19.96666667,Africa
+EGY,Egypt,2014,999,15.7,14.3,33.1,21.03333333,Africa
+ERI,Eritrea,2002,0,1.8,23.1,66.1,30.33333333,Africa
+ERI,Eritrea,2002,1,1.4,16.3,59.5,25.73333333,Africa
+ERI,Eritrea,2002,999,1.6,19.8,62.9,28.1,Africa
+ERI,Eritrea,2010,0,2,20.4,81.7,34.7,Africa
+ERI,Eritrea,2010,1,2.3,16.8,78.1,32.4,Africa
+ERI,Eritrea,2010,999,2.1,18.6,79.8,33.5,Africa
+EST,Estonia,2014,0,5.7,1.7,0.9,2.766666667,Europe
+EST,Estonia,2014,1,4.1,1.4,2.4,2.633333333,Europe
+EST,Estonia,2014,999,5,1.5,1.6,2.7,Europe
+ETH,Ethiopia,2000,0,2,18.2,93.1,37.76666667,Africa
+ETH,Ethiopia,2000,1,2,14.1,85.3,33.8,Africa
+ETH,Ethiopia,2000,999,2,16.2,89.2,35.8,Africa
+ETH,Ethiopia,2005,0,5.8,19.1,80.6,35.16666667,Africa
+ETH,Ethiopia,2005,1,4.4,15,75.6,31.66666667,Africa
+ETH,Ethiopia,2005,999,5.1,17.1,78.1,33.43333333,Africa
+ETH,Ethiopia,2011,0,1.6,14.9,68.4,28.3,Africa
+ETH,Ethiopia,2011,1,2.1,10.3,62.3,24.9,Africa
+ETH,Ethiopia,2011,999,1.8,12.7,65.4,26.63333333,Africa
+ETH,Ethiopia,2014,0,2.3,13.3,59.9,25.16666667,Africa
+ETH,Ethiopia,2014,1,3.4,9.8,58.7,23.96666667,Africa
+ETH,Ethiopia,2014,999,2.9,11.5,59.3,24.56666667,Africa
+ETH,Ethiopia,2016,0,3.1,13.2,60.3,25.53333333,Africa
+ETH,Ethiopia,2016,1,2.8,12.8,51,22.2,Africa
+ETH,Ethiopia,2016,999,2.9,13,55.8,23.9,Africa
+ETH,Ethiopia,2019,0,2,10.5,54.9,22.46666667,Africa
+ETH,Ethiopia,2019,1,2.2,6.3,42.7,17.06666667,Africa
+ETH,Ethiopia,2019,999,2.1,8.4,48.8,19.76666667,Africa
+FJI,Fiji,2004,0,5.4,6.1,11.3,7.6,Oceania
+FJI,Fiji,2004,1,4.8,11,9.9,8.566666667,Oceania
+FJI,Fiji,2004,999,5.1,8.3,10.7,8.033333333,Oceania
+GAB,Gabon,2000,0,6,6.1,39,17.03333333,Africa
+GAB,Gabon,2000,1,5.1,5.3,30.4,13.6,Africa
+GAB,Gabon,2000,999,5.5,5.7,34.7,15.3,Africa
+GAB,Gabon,2012,0,9.2,5.2,25.7,13.36666667,Africa
+GAB,Gabon,2012,1,6.2,4.3,20.1,10.2,Africa
+GAB,Gabon,2012,999,7.7,4.7,23,11.8,Africa
+GEO,Georgia,2005,0,21.1,4.1,24,16.4,Asia
+GEO,Georgia,2005,1,20.5,4.1,20.3,14.96666667,Asia
+GEO,Georgia,2005,999,20.8,4.1,22.3,15.73333333,Asia
+GEO,Georgia,2009,0,21.3,2,19.2,14.16666667,Asia
+GEO,Georgia,2009,1,18.1,1.2,14,11.1,Asia
+GEO,Georgia,2009,999,19.8,1.6,16.8,12.73333333,Asia
+GEO,Georgia,2018,0,7.2,0.7,6.4,4.766666667,Asia
+GEO,Georgia,2018,1,4.8,0.7,7.8,4.433333333,Asia
+GEO,Georgia,2018,999,6,0.7,7.1,4.6,Asia
+GHA,Ghana,1997,0,2.3,11.5,54.4,22.73333333,Africa
+GHA,Ghana,1997,1,1.6,9.3,46.5,19.13333333,Africa
+GHA,Ghana,1997,999,2,10.4,50.4,20.93333333,Africa
+GHA,Ghana,1998,0,2.9,14.4,47.6,21.63333333,Africa
+GHA,Ghana,1998,1,2.5,10.4,39.2,17.36666667,Africa
+GHA,Ghana,1998,999,2.7,12.4,43.3,19.46666667,Africa
+GHA,Ghana,2003,0,5.3,11.4,54.8,23.83333333,Africa
+GHA,Ghana,2003,1,3.6,10.9,44.3,19.6,Africa
+GHA,Ghana,2003,999,4.5,11.2,49.6,21.76666667,Africa
+GHA,Ghana,2006,0,2.6,8.6,40.3,17.16666667,Africa
+GHA,Ghana,2006,1,2.6,6.7,35.1,14.8,Africa
+GHA,Ghana,2006,999,2.6,7.8,37.8,16.06666667,Africa
+GHA,Ghana,2008,0,5.4,11.9,41.8,19.7,Africa
+GHA,Ghana,2008,1,5.9,10.3,35.8,17.33333333,Africa
+GHA,Ghana,2008,999,5.7,11.1,38.9,18.56666667,Africa
+GHA,Ghana,2011,0,2.7,9.1,33.6,15.13333333,Africa
+GHA,Ghana,2011,1,2.5,6.1,25.6,11.4,Africa
+GHA,Ghana,2011,999,2.6,7.6,29.6,13.26666667,Africa
+GHA,Ghana,2014,0,3.6,5.1,25.9,11.53333333,Africa
+GHA,Ghana,2014,1,1.6,5.7,21.5,9.6,Africa
+GHA,Ghana,2014,999,2.6,5.4,23.8,10.6,Africa
+GHA,Ghana,2017,0,1.5,9.1,25.2,11.93333333,Africa
+GHA,Ghana,2017,1,1.3,6.9,19.5,9.233333333,Africa
+GHA,Ghana,2017,999,1.4,7.9,22.3,10.53333333,Africa
+GIN,Guinea,1999,0,4.5,14.9,46.7,22.03333333,Africa
+GIN,Guinea,1999,1,4.2,12.4,40.9,19.16666667,Africa
+GIN,Guinea,1999,999,4.4,13.7,43.9,20.66666667,Africa
+GIN,Guinea,2005,0,5.2,16.5,62.7,28.13333333,Africa
+GIN,Guinea,2005,1,5.1,13.7,53.9,24.23333333,Africa
+GIN,Guinea,2005,999,5.2,15.2,58.3,26.23333333,Africa
+GIN,Guinea,2007,0,6.6,9.8,50.8,22.4,Africa
+GIN,Guinea,2007,1,6.2,9.5,44.3,20,Africa
+GIN,Guinea,2007,999,6.4,9.6,47.7,21.23333333,Africa
+GIN,Guinea,2012,0,3.95,10.95,49.05,21.31666667,Africa
+GIN,Guinea,2012,1,2.8,9.25,42.95,18.33333333,Africa
+GIN,Guinea,2012,999,3.4,10.15,46,19.85,Africa
+GIN,Guinea,2016,0,4.6,11.9,50.2,22.23333333,Africa
+GIN,Guinea,2016,1,3.4,10.1,43.7,19.06666667,Africa
+GIN,Guinea,2016,999,4,11,47,20.66666667,Africa
+GIN,Guinea,2018,0,5.7,13,48.8,22.5,Africa
+GIN,Guinea,2018,1,5.6,12.6,38.5,18.9,Africa
+GIN,Guinea,2018,999,5.6,12.8,43.7,20.7,Africa
+GMB,Gambia,2000,0,2.9,12.5,36.4,17.26666667,Africa
+GMB,Gambia,2000,1,3,10.8,28.5,14.1,Africa
+GMB,Gambia,2000,999,3,11.6,32.5,15.7,Africa
+GMB,Gambia,2006,0,2.9,10.3,40.4,17.86666667,Africa
+GMB,Gambia,2006,1,2.5,8,36,15.5,Africa
+GMB,Gambia,2006,999,2.7,9.2,38.3,16.73333333,Africa
+GMB,Gambia,2010,0,2.4,12.4,33,15.93333333,Africa
+GMB,Gambia,2010,1,1.5,10.9,27.5,13.3,Africa
+GMB,Gambia,2010,999,1.9,11.6,30.3,14.6,Africa
+GMB,Gambia,2012,0,0.7,12.8,29.3,14.26666667,Africa
+GMB,Gambia,2012,1,1.6,9.3,22.4,11.1,Africa
+GMB,Gambia,2012,999,1.1,11.1,25.9,12.7,Africa
+GMB,Gambia,2013,0,3.1,16.8,35.6,18.5,Africa
+GMB,Gambia,2013,1,3.3,13.9,30.7,15.96666667,Africa
+GMB,Gambia,2013,999,3.2,15.3,33.3,17.26666667,Africa
+GMB,Gambia,2018,0,2.1,8,23.7,11.26666667,Africa
+GMB,Gambia,2018,1,1.65,6.55,17.95,8.716666667,Africa
+GMB,Gambia,2018,999,1.85,7.25,20.9,10,Africa
+GMB,Gambia,2020,0,2,6.3,22.4,10.23333333,Africa
+GMB,Gambia,2020,1,2.3,4.9,19.6,8.933333333,Africa
+GMB,Gambia,2020,999,2.1,5.7,21,9.6,Africa
+GNB,Guinea-Bissau,2000,0,5.3,17.4,52.2,24.96666667,Africa
+GNB,Guinea-Bissau,2000,1,4.8,15.8,44.3,21.63333333,Africa
+GNB,Guinea-Bissau,2000,999,5,16.6,48.2,23.26666667,Africa
+GNB,Guinea-Bissau,2010,0,3,6.7,46.1,18.6,Africa
+GNB,Guinea-Bissau,2010,1,2.5,7.3,38.1,15.96666667,Africa
+GNB,Guinea-Bissau,2010,999,2.8,6.9,42.2,17.3,Africa
+GNB,Guinea-Bissau,2012,0,1.9,8.3,37.5,15.9,Africa
+GNB,Guinea-Bissau,2012,1,1.8,5.9,30,12.56666667,Africa
+GNB,Guinea-Bissau,2012,999,1.9,7.1,33.7,14.23333333,Africa
+GNB,Guinea-Bissau,2014,0,2.7,7.9,37.5,16.03333333,Africa
+GNB,Guinea-Bissau,2014,1,1.9,6.8,34.1,14.26666667,Africa
+GNB,Guinea-Bissau,2014,999,2.3,7.4,35.8,15.16666667,Africa
+GNB,Guinea-Bissau,2019,0,3.1,8.5,40.8,17.46666667,Africa
+GNB,Guinea-Bissau,2019,1,1.65,6.9,32.9,13.81666667,Africa
+GNB,Guinea-Bissau,2019,999,2.4,7.7,36.9,15.66666667,Africa
+GNQ,Equatorial Guinea,1997,0,5.3,7.2,63.6,25.36666667,Africa
+GNQ,Equatorial Guinea,1997,1,1.5,5.8,52.9,20.06666667,Africa
+GNQ,Equatorial Guinea,1997,999,3.4,6.5,58.3,22.73333333,Africa
+GNQ,Equatorial Guinea,2000,0,14.3,12.2,71.5,32.66666667,Africa
+GNQ,Equatorial Guinea,2000,1,13.6,14.8,59.8,29.4,Africa
+GNQ,Equatorial Guinea,2000,999,14,13.4,65.9,31.1,Africa
+GNQ,Equatorial Guinea,2004,0,12,3.9,50.8,22.23333333,Africa
+GNQ,Equatorial Guinea,2004,1,4,4.4,46.2,18.2,Africa
+GNQ,Equatorial Guinea,2004,999,8.3,4.1,48.7,20.36666667,Africa
+GNQ,Equatorial Guinea,2011,0,11.6,3.8,41.3,18.9,Africa
+GNQ,Equatorial Guinea,2011,1,7.9,5.9,29.6,14.46666667,Africa
+GNQ,Equatorial Guinea,2011,999,9.7,4.8,35.4,16.63333333,Africa
+GRC,Greece,2003,0,13.2,0.8,1.2,5.066666667,Europe
+GRC,Greece,2003,1,13.9,0.5,2.3,5.566666667,Europe
+GRC,Greece,2003,999,13.6,0.6,1.8,5.333333333,Europe
+GTM,Guatemala,1995,0,6.8,6.4,87.5,33.56666667,Americas
+GTM,Guatemala,1995,1,5.6,4.1,81.4,30.36666667,Americas
+GTM,Guatemala,1995,999,6.2,5.3,84.4,31.96666667,Americas
+GTM,Guatemala,1999,0,7.6,5.3,84.2,32.36666667,Americas
+GTM,Guatemala,1999,1,6.2,3.2,76.7,28.7,Americas
+GTM,Guatemala,1999,999,6.9,4.3,80.5,30.56666667,Americas
+GTM,Guatemala,2000,0,8.4,6.4,80,31.6,Americas
+GTM,Guatemala,2000,1,6.2,4.2,77,29.13333333,Americas
+GTM,Guatemala,2000,999,7.3,5.3,78.5,30.36666667,Americas
+GTM,Guatemala,2002,0,6.1,3.2,83.7,31,Americas
+GTM,Guatemala,2002,1,4.3,2.3,79.7,28.76666667,Americas
+GTM,Guatemala,2002,999,5.2,2.7,81.8,29.9,Americas
+GTM,Guatemala,2009,0,5.2,1.2,73.9,26.76666667,Americas
+GTM,Guatemala,2009,1,4.5,1.2,73.1,26.26666667,Americas
+GTM,Guatemala,2009,999,4.9,1.2,73.5,26.53333333,Americas
+GTM,Guatemala,2015,0,5.1,1.2,65.6,23.96666667,Americas
+GTM,Guatemala,2015,1,4.8,0.5,61.3,22.2,Americas
+GTM,Guatemala,2015,999,4.9,0.9,63.5,23.1,Americas
+GUY,Guyana,1993,0,2.4,9.3,19.5,10.4,Americas
+GUY,Guyana,1993,1,1.7,5.8,20.4,9.3,Americas
+GUY,Guyana,1993,999,2.1,7.6,19.9,9.866666667,Americas
+GUY,Guyana,2000,0,5.4,18.8,20,14.73333333,Americas
+GUY,Guyana,2000,1,5.6,13.8,17.1,12.16666667,Americas
+GUY,Guyana,2000,999,5.5,16.4,18.7,13.53333333,Americas
+GUY,Guyana,2006,0,6.4,10.2,26.6,14.4,Americas
+GUY,Guyana,2006,1,7.3,11.8,24.6,14.56666667,Americas
+GUY,Guyana,2006,999,6.8,10.9,25.6,14.43333333,Americas
+GUY,Guyana,2009,0,4.9,8.9,26.5,13.43333333,Americas
+GUY,Guyana,2009,1,8.5,4.7,24.3,12.5,Americas
+GUY,Guyana,2009,999,6.7,6.7,25.4,12.93333333,Americas
+GUY,Guyana,2014,0,5.7,8.4,15.7,9.933333333,Americas
+GUY,Guyana,2014,1,4.8,7.9,12.9,8.533333333,Americas
+GUY,Guyana,2014,999,5.3,8.1,14.4,9.266666667,Americas
+HND,Honduras,1991,0,3.3,3.4,61.7,22.8,Americas
+HND,Honduras,1991,1,2.6,2.3,59.1,21.33333333,Americas
+HND,Honduras,1991,999,3,2.9,60.4,22.1,Americas
+HND,Honduras,2001,0,3.3,1.4,50.6,18.43333333,Americas
+HND,Honduras,2001,1,2.7,1.5,45.4,16.53333333,Americas
+HND,Honduras,2001,999,3,1.5,48.1,17.53333333,Americas
+HND,Honduras,2006,0,6.3,2,41.9,16.73333333,Americas
+HND,Honduras,2006,1,5.2,1.4,36.8,14.46666667,Americas
+HND,Honduras,2006,999,5.8,1.7,39.4,15.63333333,Americas
+HND,Honduras,2012,0,5.5,2.2,31,12.9,Americas
+HND,Honduras,2012,1,4.8,1.1,26.1,10.66666667,Americas
+HND,Honduras,2012,999,5.2,1.7,28.6,11.83333333,Americas
+HTI,Haiti,1994,0,3.8,14.8,56.9,25.16666667,Americas
+HTI,Haiti,1994,1,4.8,9.8,54.8,23.13333333,Americas
+HTI,Haiti,1994,999,4.3,12.3,55.9,24.16666667,Americas
+HTI,Haiti,2000,0,3.8,7.8,42.7,18.1,Americas
+HTI,Haiti,2000,1,2.3,6.4,34.7,14.46666667,Americas
+HTI,Haiti,2000,999,3.1,7,38.7,16.26666667,Americas
+HTI,Haiti,2006,0,4.4,13.2,45.5,21.03333333,Americas
+HTI,Haiti,2006,1,3.5,13.8,34.7,17.33333333,Americas
+HTI,Haiti,2006,999,3.9,13.5,40,19.13333333,Americas
+HTI,Haiti,2012,0,4.1,6.6,31.9,14.2,Americas
+HTI,Haiti,2012,1,3.1,6.1,28,12.4,Americas
+HTI,Haiti,2012,999,3.6,6.4,29.9,13.3,Americas
+HTI,Haiti,2017,0,4,5.3,33,14.1,Americas
+HTI,Haiti,2017,1,2.8,3.8,26.3,10.96666667,Americas
+HTI,Haiti,2017,999,3.4,4.5,29.6,12.5,Americas
+IDN,Indonesia,2000,0,1.7,7.5,61,23.4,Asia
+IDN,Indonesia,2000,1,1.3,5.3,55.2,20.6,Asia
+IDN,Indonesia,2000,999,1.5,6.4,58.2,22.03333333,Asia
+IDN,Indonesia,2001,0,1.7,7.2,59.6,22.83333333,Asia
+IDN,Indonesia,2001,1,1.3,5.2,53.5,20,Asia
+IDN,Indonesia,2001,999,1.5,6.2,56.6,21.43333333,Asia
+IDN,Indonesia,2004,0,5.5,20.5,43.1,23.03333333,Asia
+IDN,Indonesia,2004,1,4.8,18.4,38.1,20.43333333,Asia
+IDN,Indonesia,2004,999,5.1,19.5,40.6,21.73333333,Asia
+IDN,Indonesia,2007,0,11.3,23.1,63.6,32.66666667,Asia
+IDN,Indonesia,2007,1,11.2,19.9,58.5,29.86666667,Asia
+IDN,Indonesia,2007,999,11.2,21.6,61.1,31.3,Asia
+IDN,Indonesia,2010,0,11.7,18.2,61.2,30.36666667,Asia
+IDN,Indonesia,2010,1,13,17.2,56.6,28.93333333,Asia
+IDN,Indonesia,2010,999,12.3,17.7,58.9,29.63333333,Asia
+IDN,Indonesia,2013,0,11.8,21.4,54.7,29.3,Asia
+IDN,Indonesia,2013,1,11.3,18.9,51.3,27.16666667,Asia
+IDN,Indonesia,2013,999,11.5,20.2,53.1,28.26666667,Asia
+IDN,Indonesia,2018,0,8.4,15,43.8,22.4,Asia
+IDN,Indonesia,2018,1,7.7,12.3,40.5,20.16666667,Asia
+IDN,Indonesia,2018,999,8,13.7,42.3,21.33333333,Asia
+IND,India,2006,0,2.1,28,71.8,33.96666667,Asia
+IND,India,2006,1,1.7,25.5,71.2,32.8,Asia
+IND,India,2006,999,1.9,26.8,71.5,33.4,Asia
+IND,India,2015,0,2.4,29.9,55.1,29.13333333,Asia
+IND,India,2015,1,2.4,26.9,53.1,27.46666667,Asia
+IND,India,2015,999,2.4,28.5,54.1,28.33333333,Asia
+IND,India,2017,0,1.6,23.4,48.8,24.6,Asia
+IND,India,2017,1,1.5,21.1,46.9,23.16666667,Asia
+IND,India,2017,999,1.6,22.2,47.9,23.9,Asia
+IRQ,Iraq,2000,0,5.7,9.6,38.4,17.9,Asia
+IRQ,Iraq,2000,1,5.4,8.5,36.4,16.76666667,Asia
+IRQ,Iraq,2000,999,5.5,9,37.4,17.3,Asia
+IRQ,Iraq,2006,0,15.6,9.2,42.1,22.3,Asia
+IRQ,Iraq,2006,1,14.3,7.9,37,19.73333333,Asia
+IRQ,Iraq,2006,999,15,8.5,39.7,21.06666667,Asia
+IRQ,Iraq,2011,0,11.8,9.4,32.6,17.93333333,Asia
+IRQ,Iraq,2011,1,10.8,9,29.8,16.53333333,Asia
+IRQ,Iraq,2011,999,11.4,9.2,31.3,17.3,Asia
+IRQ,Iraq,2018,0,6.3,4.4,16.4,9.033333333,Asia
+IRQ,Iraq,2018,1,5.7,3.5,17.2,8.8,Asia
+IRQ,Iraq,2018,999,6.1,3.9,16.7,8.9,Asia
+JAM,Jamaica,1989,0,5,4,21.1,10.03333333,Americas
+JAM,Jamaica,1989,1,2.4,3.6,10.4,5.466666667,Americas
+JAM,Jamaica,1989,999,3.7,3.8,15.7,7.733333333,Americas
+JAM,Jamaica,1991,0,2.2,8.9,21.9,11,Americas
+JAM,Jamaica,1991,1,2.3,4.4,8.7,5.133333333,Americas
+JAM,Jamaica,1991,999,2.3,6.7,15.3,8.1,Americas
+JAM,Jamaica,1992,0,3.4,2.8,20.7,8.966666667,Americas
+JAM,Jamaica,1992,1,2.7,3.2,16.3,7.4,Americas
+JAM,Jamaica,1992,999,3.1,3,18.6,8.233333333,Americas
+JAM,Jamaica,1994,0,5.95,5.4,20.45,10.6,Americas
+JAM,Jamaica,1994,1,4.9,5.45,13.4,7.916666667,Americas
+JAM,Jamaica,1994,999,5.4,5.45,16.85,9.233333333,Americas
+JAM,Jamaica,1995,0,7.6,4.3,16.1,9.333333333,Americas
+JAM,Jamaica,1995,1,4.1,7,10.2,7.1,Americas
+JAM,Jamaica,1995,999,5.9,5.6,13.2,8.233333333,Americas
+JAM,Jamaica,1996,0,3.4,2.6,17.4,7.8,Americas
+JAM,Jamaica,1996,1,4.1,2.8,11.8,6.233333333,Americas
+JAM,Jamaica,1996,999,3.8,2.6,14.6,7,Americas
+JAM,Jamaica,1997,0,6.5,3.5,14.1,8.033333333,Americas
+JAM,Jamaica,1997,1,4.7,1.5,10,5.4,Americas
+JAM,Jamaica,1997,999,5.5,2.5,12,6.666666667,Americas
+JAM,Jamaica,1998,0,3.9,5.6,16.4,8.633333333,Americas
+JAM,Jamaica,1998,1,4.7,1.8,6.8,4.433333333,Americas
+JAM,Jamaica,1998,999,4.3,3.5,11.3,6.366666667,Americas
+JAM,Jamaica,1999,0,7.1,3.5,8.5,6.366666667,Americas
+JAM,Jamaica,1999,1,5.5,3,5.1,4.533333333,Americas
+JAM,Jamaica,1999,999,6.3,3.3,6.8,5.466666667,Americas
+JAM,Jamaica,2000,0,9.4,4.3,13.3,9,Americas
+JAM,Jamaica,2000,1,4.8,4.8,4.3,4.633333333,Americas
+JAM,Jamaica,2000,999,7.3,4.5,9.2,7,Americas
+JAM,Jamaica,2001,0,7.2,3.9,13.3,8.133333333,Americas
+JAM,Jamaica,2001,1,4.2,4.5,5.2,4.633333333,Americas
+JAM,Jamaica,2001,999,5.8,4.2,9.5,6.5,Americas
+JAM,Jamaica,2002,0,8.6,3.2,13.1,8.3,Americas
+JAM,Jamaica,2002,1,8.3,2.8,9.5,6.866666667,Americas
+JAM,Jamaica,2002,999,8.5,3.1,11.3,7.633333333,Americas
+JAM,Jamaica,2004,0,7.7,5.6,7.7,7,Americas
+JAM,Jamaica,2004,1,7.2,5.6,5.1,5.966666667,Americas
+JAM,Jamaica,2004,999,7.5,5.6,6.4,6.5,Americas
+JAM,Jamaica,2006,0,9,5,8.6,7.533333333,Americas
+JAM,Jamaica,2006,1,3.2,4.1,11.6,6.3,Americas
+JAM,Jamaica,2006,999,6.1,4.6,10,6.9,Americas
+JAM,Jamaica,2007,0,7.9,5,8.1,7,Americas
+JAM,Jamaica,2007,1,9.7,2.6,8.2,6.833333333,Americas
+JAM,Jamaica,2007,999,8.7,3.9,8.1,6.9,Americas
+JAM,Jamaica,2008,0,7.9,2.6,11.7,7.4,Americas
+JAM,Jamaica,2008,1,7.6,2.9,6.6,5.7,Americas
+JAM,Jamaica,2008,999,7.8,2.8,9.1,6.566666667,Americas
+JAM,Jamaica,2010,0,3.3,7.4,10,6.9,Americas
+JAM,Jamaica,2010,1,4.8,5.3,6.2,5.433333333,Americas
+JAM,Jamaica,2010,999,4.1,6.3,8.2,6.2,Americas
+JAM,Jamaica,2012,0,5.8,3.6,9,6.133333333,Americas
+JAM,Jamaica,2012,1,10,3.8,8.8,7.533333333,Americas
+JAM,Jamaica,2012,999,7.8,3.8,8.9,6.833333333,Americas
+JAM,Jamaica,2014,0,7.7,4.1,9.7,7.166666667,Americas
+JAM,Jamaica,2014,1,9,4.2,5.7,6.3,Americas
+JAM,Jamaica,2014,999,8.3,4.1,7.8,6.733333333,Americas
+JAM,Jamaica,2016,0,7,4.8,11.5,7.766666667,Americas
+JAM,Jamaica,2016,1,6.6,2.7,12.3,7.2,Americas
+JAM,Jamaica,2016,999,6.8,3.8,11.9,7.5,Americas
+JOR,Jordan,1990,0,9.5,6.8,27.9,14.73333333,Asia
+JOR,Jordan,1990,1,7.5,4.3,23.7,11.83333333,Asia
+JOR,Jordan,1990,999,8.5,5.5,25.9,13.3,Asia
+JOR,Jordan,1997,0,4.9,2.7,15,7.533333333,Asia
+JOR,Jordan,1997,1,3.7,3.1,12.3,6.366666667,Asia
+JOR,Jordan,1997,999,4.3,3,13.7,7,Asia
+JOR,Jordan,2002,0,4.7,3.9,13.9,7.5,Asia
+JOR,Jordan,2002,1,4.3,2.7,14.2,7.066666667,Asia
+JOR,Jordan,2002,999,4.5,3.3,14.1,7.3,Asia
+JOR,Jordan,2009,0,7.9,1.9,9.9,6.566666667,Asia
+JOR,Jordan,2009,1,5.2,1.7,10.1,5.666666667,Asia
+JOR,Jordan,2009,999,6.6,1.8,10,6.133333333,Asia
+JOR,Jordan,2012,0,5.6,2.9,11,6.5,Asia
+JOR,Jordan,2012,1,3.8,3.2,7.6,4.866666667,Asia
+JOR,Jordan,2012,999,4.7,3.1,9.4,5.733333333,Asia
+JPN,Japan,2010,0,1.9,3.2,8.6,4.566666667,Asia
+JPN,Japan,2010,1,1.1,1.9,7.4,3.466666667,Asia
+JPN,Japan,2010,999,1.5,2.5,8,4,Asia
+KAZ,Kazakhstan,1999,0,6.8,6,16.4,9.733333333,Asia
+KAZ,Kazakhstan,1999,1,3.2,1.3,17.6,7.366666667,Asia
+KAZ,Kazakhstan,1999,999,4.9,3.5,17,8.466666667,Asia
+KAZ,Kazakhstan,2006,0,17.5,7.4,25.4,16.76666667,Asia
+KAZ,Kazakhstan,2006,1,16.2,7,23,15.4,Asia
+KAZ,Kazakhstan,2006,999,16.9,7.2,24.3,16.13333333,Asia
+KAZ,Kazakhstan,2010,0,14.8,6.3,18.7,13.26666667,Asia
+KAZ,Kazakhstan,2010,1,11.8,5.1,18.3,11.73333333,Asia
+KAZ,Kazakhstan,2010,999,13.3,5.8,18.5,12.53333333,Asia
+KAZ,Kazakhstan,2015,0,8.7,4,10,7.566666667,Asia
+KAZ,Kazakhstan,2015,1,10,4.3,10.9,8.4,Asia
+KAZ,Kazakhstan,2015,999,9.3,4.2,10.4,7.966666667,Asia
+KEN,Kenya,1993,0,5.8,10.7,63.6,26.7,Africa
+KEN,Kenya,1993,1,5.9,8.8,51.4,22.03333333,Africa
+KEN,Kenya,1993,999,5.8,9.7,57.5,24.33333333,Africa
+KEN,Kenya,1994,0,4.8,10.6,63.3,26.23333333,Africa
+KEN,Kenya,1994,1,5.5,7.7,55.1,22.76666667,Africa
+KEN,Kenya,1994,999,5.1,9.2,59.3,24.53333333,Africa
+KEN,Kenya,2000,0,7.8,11.9,65.7,28.46666667,Africa
+KEN,Kenya,2000,1,8.5,8.7,53.9,23.7,Africa
+KEN,Kenya,2000,999,8.1,10.3,59.9,26.1,Africa
+KEN,Kenya,2003,0,6,10.2,56.7,24.3,Africa
+KEN,Kenya,2003,1,5.6,7,44.8,19.13333333,Africa
+KEN,Kenya,2003,999,5.8,8.6,50.7,21.7,Africa
+KEN,Kenya,2005,0,7.3,10.5,66.5,28.1,Africa
+KEN,Kenya,2005,1,8.6,8.2,52.4,23.06666667,Africa
+KEN,Kenya,2005,999,7.9,9.3,59.4,25.53333333,Africa
+KEN,Kenya,2008,0,4.7,10.5,53.7,22.96666667,Africa
+KEN,Kenya,2008,1,5.3,7.7,46.1,19.7,Africa
+KEN,Kenya,2008,999,5,9,50.1,21.36666667,Africa
+KEN,Kenya,2014,0,4.7,5.6,39.9,16.73333333,Africa
+KEN,Kenya,2014,1,3.5,4.8,28.8,12.36666667,Africa
+KEN,Kenya,2014,999,4.1,5.2,34.5,14.6,Africa
+KGZ,Kyrgyzstan,2006,0,12.7,5.1,25,14.26666667,Asia
+KGZ,Kyrgyzstan,2006,1,8.6,3.7,23,11.76666667,Asia
+KGZ,Kyrgyzstan,2006,999,10.7,4.4,24,13.03333333,Asia
+KGZ,Kyrgyzstan,2009,999,4.4,1.6,27.6,11.2,Asia
+KGZ,Kyrgyzstan,2012,0,9.5,4.5,26.7,13.56666667,Asia
+KGZ,Kyrgyzstan,2012,1,8.1,3.7,20.8,10.86666667,Asia
+KGZ,Kyrgyzstan,2012,999,8.9,4.1,23.9,12.3,Asia
+KGZ,Kyrgyzstan,2014,0,7.8,3.6,17.2,9.533333333,Asia
+KGZ,Kyrgyzstan,2014,1,6.1,3.8,15.4,8.433333333,Asia
+KGZ,Kyrgyzstan,2014,999,7,3.6,16.3,8.966666667,Asia
+KGZ,Kyrgyzstan,2018,0,6.8,2.7,16.5,8.666666667,Asia
+KGZ,Kyrgyzstan,2018,1,7.1,2.8,13.5,7.8,Asia
+KGZ,Kyrgyzstan,2018,999,6.9,2.7,15.1,8.233333333,Asia
+KHM,Cambodia,1996,0,5.2,21.4,97.8,41.46666667,Asia
+KHM,Cambodia,1996,1,7.7,14.5,86.3,36.16666667,Asia
+KHM,Cambodia,1996,999,6.5,17.9,92,38.8,Asia
+KHM,Cambodia,2000,0,4.1,26,74.2,34.76666667,Asia
+KHM,Cambodia,2000,1,3.9,23.2,74.1,33.73333333,Asia
+KHM,Cambodia,2000,999,4,24.6,74.2,34.26666667,Asia
+KHM,Cambodia,2005,0,2.1,10.6,65.2,25.96666667,Asia
+KHM,Cambodia,2005,1,1.2,9.9,54.6,21.9,Asia
+KHM,Cambodia,2005,999,1.6,10.3,59.8,23.9,Asia
+KHM,Cambodia,2008,0,1.9,12,58.2,24.03333333,Asia
+KHM,Cambodia,2008,1,2.1,9.9,51.4,21.13333333,Asia
+KHM,Cambodia,2008,999,2,11,54.8,22.6,Asia
+KHM,Cambodia,2010,0,1.8,13.8,55.3,23.63333333,Asia
+KHM,Cambodia,2010,1,1.9,13.7,51.6,22.4,Asia
+KHM,Cambodia,2010,999,1.9,13.7,53.4,23,Asia
+KHM,Cambodia,2014,0,2.6,12.7,42.6,19.3,Asia
+KHM,Cambodia,2014,1,1.8,11.7,40.5,18,Asia
+KHM,Cambodia,2014,999,2.2,12.2,41.5,18.63333333,Asia
+KIR,Kiribati,2018,0,3.3,5.1,21.1,9.833333333,Oceania
+KIR,Kiribati,2018,1,0.9,4.6,17.6,7.7,Oceania
+KIR,Kiribati,2018,999,2.1,4.8,19.3,8.733333333,Oceania
+KOR,Republic of Korea,2003,0,8.1,1,2.7,3.933333333,Asia
+KOR,Republic of Korea,2003,1,4.2,1.3,2.7,2.733333333,Asia
+KOR,Republic of Korea,2003,999,6.2,1.1,2.7,3.333333333,Asia
+KWT,Kuwait,2001,0,11.1,3,5.9,6.666666667,Asia
+KWT,Kuwait,2001,1,11,2,4.5,5.833333333,Asia
+KWT,Kuwait,2001,999,11,2.6,5.3,6.3,Asia
+KWT,Kuwait,2002,0,6.8,2.6,5.6,5,Asia
+KWT,Kuwait,2002,1,6.4,2.7,3.5,4.2,Asia
+KWT,Kuwait,2002,999,6.6,2.7,4.6,4.633333333,Asia
+KWT,Kuwait,2003,0,7.6,3.2,5.7,5.5,Asia
+KWT,Kuwait,2003,1,6,3.2,4.4,4.533333333,Asia
+KWT,Kuwait,2003,999,6.8,3.3,5,5.033333333,Asia
+KWT,Kuwait,2004,0,7.9,4.9,5.8,6.2,Asia
+KWT,Kuwait,2004,1,6.3,4,5.1,5.133333333,Asia
+KWT,Kuwait,2004,999,7.1,4.5,5.4,5.666666667,Asia
+KWT,Kuwait,2005,0,7.9,4.2,6.7,6.266666667,Asia
+KWT,Kuwait,2005,1,7.1,4.4,4.7,5.4,Asia
+KWT,Kuwait,2005,999,7.5,4.3,5.8,5.866666667,Asia
+KWT,Kuwait,2006,0,8.9,3.1,5.8,5.933333333,Asia
+KWT,Kuwait,2006,1,8.4,3.9,5.9,6.066666667,Asia
+KWT,Kuwait,2006,999,8.7,3.4,5.9,6,Asia
+KWT,Kuwait,2007,0,7.8,4.3,8.1,6.733333333,Asia
+KWT,Kuwait,2007,1,9.2,4.3,6.2,6.566666667,Asia
+KWT,Kuwait,2007,999,8.5,4.4,7.2,6.7,Asia
+KWT,Kuwait,2008,0,9.1,3.2,7.3,6.533333333,Asia
+KWT,Kuwait,2008,1,9.5,2.4,6.5,6.133333333,Asia
+KWT,Kuwait,2008,999,9.3,2.7,6.9,6.3,Asia
+KWT,Kuwait,2009,0,10,1.8,5.6,5.8,Asia
+KWT,Kuwait,2009,1,8,2.5,4.6,5.033333333,Asia
+KWT,Kuwait,2009,999,9,2.1,5.1,5.4,Asia
+KWT,Kuwait,2010,0,7.7,3.4,5.9,5.666666667,Asia
+KWT,Kuwait,2010,1,7.9,2.5,4.8,5.066666667,Asia
+KWT,Kuwait,2010,999,7.8,3,5.4,5.4,Asia
+KWT,Kuwait,2011,0,8.6,2.5,5.8,5.633333333,Asia
+KWT,Kuwait,2011,1,8,1.8,4.9,4.9,Asia
+KWT,Kuwait,2011,999,8.3,2.1,5.3,5.233333333,Asia
+KWT,Kuwait,2012,0,10.2,3,5.1,6.1,Asia
+KWT,Kuwait,2012,1,8.9,3,5.5,5.8,Asia
+KWT,Kuwait,2012,999,9.5,3,5.4,5.966666667,Asia
+KWT,Kuwait,2013,0,8,3.7,6.6,6.1,Asia
+KWT,Kuwait,2013,1,7.6,3.1,6,5.566666667,Asia
+KWT,Kuwait,2013,999,7.8,3.4,6.2,5.8,Asia
+KWT,Kuwait,2014,0,8.9,3.5,9.7,7.366666667,Asia
+KWT,Kuwait,2014,1,8.6,2.5,6.1,5.733333333,Asia
+KWT,Kuwait,2014,999,8.7,3,7.8,6.5,Asia
+LAO,Lao People's Democratic Republic,2000,0,2.4,26.9,74.8,34.7,Asia
+LAO,Lao People's Democratic Republic,2000,1,2.9,23.1,68.6,31.53333333,Asia
+LAO,Lao People's Democratic Republic,2000,999,2.7,25,71.6,33.1,Asia
+LAO,Lao People's Democratic Republic,2006,0,1.5,9.9,70.2,27.2,Asia
+LAO,Lao People's Democratic Republic,2006,1,1,8.2,66.5,25.23333333,Asia
+LAO,Lao People's Democratic Republic,2006,999,1.3,9.1,68.5,26.3,Asia
+LAO,Lao People's Democratic Republic,2011,0,2,7.7,65.6,25.1,Asia
+LAO,Lao People's Democratic Republic,2011,1,2.1,6.9,60.2,23.06666667,Asia
+LAO,Lao People's Democratic Republic,2011,999,2,7.3,63,24.1,Asia
+LAO,Lao People's Democratic Republic,2015,0,2.7,13.5,52.3,22.83333333,Asia
+LAO,Lao People's Democratic Republic,2015,1,2.3,10.5,45.7,19.5,Asia
+LAO,Lao People's Democratic Republic,2015,999,2.5,12.1,49.1,21.23333333,Asia
+LAO,Lao People's Democratic Republic,2017,0,3.9,12.6,47.5,21.33333333,Asia
+LAO,Lao People's Democratic Republic,2017,1,3.1,11.4,43.9,19.46666667,Asia
+LAO,Lao People's Democratic Republic,2017,999,3.5,12,45.8,20.43333333,Asia
+LBN,Lebanon,1996,0,21.5,6,23.3,16.93333333,Asia
+LBN,Lebanon,1996,1,20.2,4.4,22,15.53333333,Asia
+LBN,Lebanon,1996,999,20.8,5.2,22.7,16.23333333,Asia
+LBN,Lebanon,2004,0,15.3,11.1,24.9,17.1,Asia
+LBN,Lebanon,2004,1,18,8,27.7,17.9,Asia
+LBN,Lebanon,2004,999,16.7,9.5,26.3,17.5,Asia
+LBR,Liberia,2000,0,4.6,11.8,76.4,30.93333333,Africa
+LBR,Liberia,2000,1,4.6,7.2,60,23.93333333,Africa
+LBR,Liberia,2000,999,4.6,9.6,68.4,27.53333333,Africa
+LBR,Liberia,2007,0,4.8,10.9,64.8,26.83333333,Africa
+LBR,Liberia,2007,1,3.5,10.9,55.3,23.23333333,Africa
+LBR,Liberia,2007,999,4.2,10.9,60.2,25.1,Africa
+LBR,Liberia,2010,0,2.7,4.5,58.9,22.03333333,Africa
+LBR,Liberia,2010,1,2.7,5.5,49,19.06666667,Africa
+LBR,Liberia,2010,999,2.7,5,54.1,20.6,Africa
+LBR,Liberia,2013,0,3.1,8.2,49.2,20.16666667,Africa
+LBR,Liberia,2013,1,3.3,6.9,40.1,16.76666667,Africa
+LBR,Liberia,2013,999,3.2,7.6,45,18.6,Africa
+LBR,Liberia,2016,0,3.5,6.1,42.1,17.23333333,Africa
+LBR,Liberia,2016,1,1.9,3.9,36.1,13.96666667,Africa
+LBR,Liberia,2016,999,2.7,5,39,15.56666667,Africa
+LBR,Liberia,2019,0,4.5,4.2,43.5,17.4,Africa
+LBR,Liberia,2019,1,4.2,3.6,36.5,14.76666667,Africa
+LBR,Liberia,2019,999,4.4,3.9,39.9,16.06666667,Africa
+LBY,Libya,1995,0,13.9,5.5,31.5,16.96666667,Africa
+LBY,Libya,1995,1,12.9,4.7,27,14.86666667,Africa
+LBY,Libya,1995,999,13.4,5.1,29.2,15.9,Africa
+LBY,Libya,2007,0,23.2,10.1,32.8,22.03333333,Africa
+LBY,Libya,2007,1,21.6,8.6,30,20.06666667,Africa
+LBY,Libya,2007,999,22.4,9.4,31.5,21.1,Africa
+LBY,Libya,2014,0,30.1,15.8,67.2,37.7,Africa
+LBY,Libya,2014,1,29.1,15.2,65.1,36.46666667,Africa
+LBY,Libya,2014,999,29.6,15.5,66.2,37.1,Africa
+LCA,Saint Lucia,2012,0,8.9,5.1,4.9,6.3,Americas
+LCA,Saint Lucia,2012,1,3.8,3.7,1,2.833333333,Americas
+LCA,Saint Lucia,2012,999,6.3,4.4,3,4.566666667,Americas
+LKA,Sri Lanka,1993,0,0.2,19.6,36.7,18.83333333,Asia
+LKA,Sri Lanka,1993,1,0.6,15.8,36,17.46666667,Asia
+LKA,Sri Lanka,1993,999,0.4,17.7,36.3,18.13333333,Asia
+LKA,Sri Lanka,2000,0,1,18.9,20.9,13.6,Asia
+LKA,Sri Lanka,2000,1,1.4,17.1,23.1,13.86666667,Asia
+LKA,Sri Lanka,2000,999,1.2,18.1,21.9,13.73333333,Asia
+LKA,Sri Lanka,2007,0,1.9,19.8,23.8,15.16666667,Asia
+LKA,Sri Lanka,2007,1,1.6,16.5,20.7,12.93333333,Asia
+LKA,Sri Lanka,2007,999,1.7,18.3,22.3,14.1,Asia
+LKA,Sri Lanka,2009,0,0.7,14,25,13.23333333,Asia
+LKA,Sri Lanka,2009,1,1,13.5,22.7,12.4,Asia
+LKA,Sri Lanka,2009,999,0.8,13.7,23.8,12.76666667,Asia
+LKA,Sri Lanka,2012,0,0.7,25.6,17,14.43333333,Asia
+LKA,Sri Lanka,2012,1,0.4,23.1,16.4,13.3,Asia
+LKA,Sri Lanka,2012,999,0.6,24.3,16.7,13.86666667,Asia
+LKA,Sri Lanka,2016,0,2.2,18.6,22.6,14.46666667,Asia
+LKA,Sri Lanka,2016,1,1.8,17.6,20.3,13.23333333,Asia
+LKA,Sri Lanka,2016,999,2,18.2,21.5,13.9,Asia
+LSO,Lesotho,2004,0,7,8.1,69.1,28.06666667,Africa
+LSO,Lesotho,2004,1,6.3,7.5,59.3,24.36666667,Africa
+LSO,Lesotho,2004,999,6.7,7.8,64.3,26.26666667,Africa
+LSO,Lesotho,2009,0,7.7,6,62.3,25.33333333,Africa
+LSO,Lesotho,2009,1,7,4.7,46.9,19.53333333,Africa
+LSO,Lesotho,2009,999,7.3,5.3,54.5,22.36666667,Africa
+LSO,Lesotho,2014,0,8.1,3.2,53.3,21.53333333,Africa
+LSO,Lesotho,2014,1,6.9,3.8,36.9,15.86666667,Africa
+LSO,Lesotho,2014,999,7.5,3.4,44.8,18.56666667,Africa
+LSO,Lesotho,2018,0,7.3,3.2,50.4,20.3,Africa
+LSO,Lesotho,2018,1,5.8,2.5,41.7,16.66666667,Africa
+LSO,Lesotho,2018,999,6.6,2.9,46,18.5,Africa
+MAR,Morocco,1987,0,5.9,5.3,43.3,18.16666667,Africa
+MAR,Morocco,1987,1,5.4,5.5,39.7,16.86666667,Africa
+MAR,Morocco,1987,999,5.6,5.4,41.5,17.5,Africa
+MAR,Morocco,1992,0,11,4.2,43.2,19.46666667,Africa
+MAR,Morocco,1992,1,10.6,3.2,40,17.93333333,Africa
+MAR,Morocco,1992,999,10.8,3.7,41.6,18.7,Africa
+MAR,Morocco,1997,0,15.4,7.3,45.1,22.6,Africa
+MAR,Morocco,1997,1,11.9,6.3,37.3,18.5,Africa
+MAR,Morocco,1997,999,13.7,6.7,41.2,20.53333333,Africa
+MAR,Morocco,2003,0,14.4,16.6,34.9,21.96666667,Africa
+MAR,Morocco,2003,1,12.4,15,30.8,19.4,Africa
+MAR,Morocco,2003,999,13.4,15.8,32.9,20.7,Africa
+MAR,Morocco,2011,0,12.6,3.9,20.6,12.36666667,Africa
+MAR,Morocco,2011,1,8.9,2.7,18.1,9.9,Africa
+MAR,Morocco,2011,999,10.8,3.3,19.3,11.13333333,Africa
+MAR,Morocco,2017,0,12.4,3.3,23,12.9,Africa
+MAR,Morocco,2017,1,9.3,4.1,16.3,9.9,Africa
+MAR,Morocco,2017,999,10.9,3.7,19.8,11.46666667,Africa
+MDA,Republic of Moldova,2005,0,8.8,8.8,13.1,10.23333333,Europe
+MDA,Republic of Moldova,2005,1,8.9,7.6,13.9,10.13333333,Europe
+MDA,Republic of Moldova,2005,999,8.9,8.2,13.6,10.23333333,Europe
+MDA,Republic of Moldova,2012,0,6,2.6,7.1,5.233333333,Europe
+MDA,Republic of Moldova,2012,1,3.7,2.2,8.6,4.833333333,Europe
+MDA,Republic of Moldova,2012,999,4.9,2.4,7.8,5.033333333,Europe
+MDG,Madagascar,1992,0,1.8,8.8,99.5,36.7,Africa
+MDG,Madagascar,1992,1,1.5,6.5,84.3,30.76666667,Africa
+MDG,Madagascar,1992,999,1.6,7.6,92,33.73333333,Africa
+MDG,Madagascar,2004,0,6.4,25.6,84.8,38.93333333,Africa
+MDG,Madagascar,2004,1,6.1,16.1,78.5,33.56666667,Africa
+MDG,Madagascar,2004,999,6.2,20.7,81.6,36.16666667,Africa
+MDG,Madagascar,2012,0,1,10.5,72.8,28.1,Africa
+MDG,Madagascar,2012,1,1.1,6.3,64,23.8,Africa
+MDG,Madagascar,2012,999,1.1,8.4,68.4,25.96666667,Africa
+MDG,Madagascar,2018,0,1.6,8.6,60.8,23.66666667,Africa
+MDG,Madagascar,2018,1,1.2,6.1,51.3,19.53333333,Africa
+MDG,Madagascar,2018,999,1.4,7.4,56.1,21.63333333,Africa
+MDV,Maldives,1994,0,1.3,21.1,50.5,24.3,Asia
+MDV,Maldives,1994,1,1,18.1,46.6,21.9,Asia
+MDV,Maldives,1994,999,1.2,19.6,48.6,23.13333333,Asia
+MDV,Maldives,2001,0,3.6,18.2,48.8,23.53333333,Asia
+MDV,Maldives,2001,1,4.2,15.2,43.4,20.93333333,Asia
+MDV,Maldives,2001,999,3.9,16.9,46.4,22.4,Asia
+MDV,Maldives,2009,0,6.4,13.5,28.3,16.06666667,Asia
+MDV,Maldives,2009,1,6,13.2,22.4,13.86666667,Asia
+MDV,Maldives,2009,999,6.2,13.3,25.4,14.96666667,Asia
+MDV,Maldives,2017,0,6.7,12.3,20.8,13.26666667,Asia
+MDV,Maldives,2017,1,3,9.9,17.6,10.16666667,Asia
+MDV,Maldives,2017,999,4.9,11.1,19.3,11.76666667,Asia
+MEX,Mexico,1988,0,6.4,8.1,38.5,17.66666667,Americas
+MEX,Mexico,1988,1,5.5,8.3,38,17.26666667,Americas
+MEX,Mexico,1988,999,6,8.2,38.3,17.5,Americas
+MEX,Mexico,1998,0,7.6,3.7,30.9,14.06666667,Americas
+MEX,Mexico,1998,1,7.4,1.7,26.3,11.8,Americas
+MEX,Mexico,1998,999,7.5,2.7,28.6,12.93333333,Americas
+MEX,Mexico,2006,0,8.3,3.1,21.1,10.83333333,Americas
+MEX,Mexico,2006,1,6.6,1.8,18.6,9,Americas
+MEX,Mexico,2006,999,7.5,2.4,19.9,9.933333333,Americas
+MEX,Mexico,2012,0,9,2.3,18,9.766666667,Americas
+MEX,Mexico,2012,1,9,1.8,14.9,8.566666667,Americas
+MEX,Mexico,2012,999,9,2,16.4,9.133333333,Americas
+MEX,Mexico,2015,0,5,2.1,15.4,7.5,Americas
+MEX,Mexico,2015,1,5.3,0.8,14.8,6.966666667,Americas
+MEX,Mexico,2015,999,5.2,1.4,15.1,7.233333333,Americas
+MEX,Mexico,2016,0,5.3,3,12.9,7.066666667,Americas
+MEX,Mexico,2016,1,5.3,1.6,10.2,5.7,Americas
+MEX,Mexico,2016,999,5.3,2.3,11.6,6.4,Americas
+MEX,Mexico,2019,0,6.4,2.4,16.8,8.533333333,Americas
+MEX,Mexico,2019,1,6.2,1.2,17.3,8.233333333,Americas
+MEX,Mexico,2019,999,6.3,1.8,17,8.366666667,Americas
+MHL,Marshall Islands,2017,0,4.9,5.5,49.6,20,Oceania
+MHL,Marshall Islands,2017,1,3.2,3.8,39.3,15.43333333,Oceania
+MHL,Marshall Islands,2017,999,4.1,4.6,44.6,17.76666667,Oceania
+MKD,North Macedonia,1999,0,10.2,2.1,13.6,8.633333333,Europe
+MKD,North Macedonia,1999,1,8.8,1.9,7.4,6.033333333,Europe
+MKD,North Macedonia,1999,999,9.6,2.1,10.6,7.433333333,Europe
+MKD,North Macedonia,2005,0,16.6,3.1,17.8,12.5,Europe
+MKD,North Macedonia,2005,1,15.8,6.5,12.8,11.7,Europe
+MKD,North Macedonia,2005,999,16.2,4.7,15.4,12.1,Europe
+MKD,North Macedonia,2011,0,13.4,2.5,8,7.966666667,Europe
+MKD,North Macedonia,2011,1,11.4,1.5,6,6.3,Europe
+MKD,North Macedonia,2011,999,12.4,2,6.9,7.1,Europe
+MKD,North Macedonia,2019,0,13.1,4,5.6,7.566666667,Europe
+MKD,North Macedonia,2019,1,9,3.8,4.6,5.8,Europe
+MKD,North Macedonia,2019,999,11.2,3.9,5.2,6.766666667,Europe
+MLI,Mali,2001,0,3.2,18.5,68.7,30.13333333,Africa
+MLI,Mali,2001,1,2.9,15.1,63.2,27.06666667,Africa
+MLI,Mali,2001,999,3.1,16.8,65.9,28.6,Africa
+MLI,Mali,2006,0,4.8,22.8,60.9,29.5,Africa
+MLI,Mali,2006,1,4.5,20.3,53.3,26.03333333,Africa
+MLI,Mali,2006,999,4.6,21.5,57.1,27.73333333,Africa
+MLI,Mali,2010,0,1.2,12,40.7,17.96666667,Africa
+MLI,Mali,2010,1,0.8,9.4,33.8,14.66666667,Africa
+MLI,Mali,2010,999,1,10.8,37.3,16.36666667,Africa
+MLI,Mali,2011,0,0.9,15.2,41,19.03333333,Africa
+MLI,Mali,2011,1,0.6,9.7,33.3,14.53333333,Africa
+MLI,Mali,2011,999,0.8,12.5,37.2,16.83333333,Africa
+MLI,Mali,2014,0,1.6,17.2,41.8,20.2,Africa
+MLI,Mali,2014,1,0.9,15,33.3,16.4,Africa
+MLI,Mali,2014,999,1.2,16.1,37.7,18.33333333,Africa
+MLI,Mali,2015,0,1.1,17.5,44.35,20.98333333,Africa
+MLI,Mali,2015,1,1.25,14.7,37.35,17.76666667,Africa
+MLI,Mali,2015,999,1.15,16.15,40.95,19.41666667,Africa
+MLI,Mali,2016,0,0.7,13.7,37.6,17.33333333,Africa
+MLI,Mali,2016,1,0.4,12,31.3,14.56666667,Africa
+MLI,Mali,2016,999,0.5,12.8,34.5,15.93333333,Africa
+MLI,Mali,2017,0,1.8,14.9,36.7,17.8,Africa
+MLI,Mali,2017,1,1.4,11,27.5,13.3,Africa
+MLI,Mali,2017,999,1.6,13,32.3,15.63333333,Africa
+MLI,Mali,2018,0,1.6,13.85,37,17.48333333,Africa
+MLI,Mali,2018,1,1.5,9.55,31.15,14.06666667,Africa
+MLI,Mali,2018,999,1.55,11.75,34.15,15.81666667,Africa
+MLI,Mali,2019,0,0.7,13.2,38.9,17.6,Africa
+MLI,Mali,2019,1,0.6,9.5,30.9,13.66666667,Africa
+MLI,Mali,2019,999,0.7,11.3,35,15.66666667,Africa
+MMR,Myanmar,2000,0,2.2,14.8,59.6,25.53333333,Asia
+MMR,Myanmar,2000,1,2.6,12.4,54.8,23.26666667,Asia
+MMR,Myanmar,2000,999,2.4,13.6,57.2,24.4,Asia
+MMR,Myanmar,2003,0,6.9,17.1,63.3,29.1,Asia
+MMR,Myanmar,2003,1,6.8,13.5,61.6,27.3,Asia
+MMR,Myanmar,2003,999,6.9,15.4,62.4,28.23333333,Asia
+MMR,Myanmar,2009,0,2.7,11.1,49.9,21.23333333,Asia
+MMR,Myanmar,2009,1,2.6,9,45.5,19.03333333,Asia
+MMR,Myanmar,2009,999,2.6,10,47.8,20.13333333,Asia
+MMR,Myanmar,2016,0,1.9,8.5,40,16.8,Asia
+MMR,Myanmar,2016,1,1.1,7.3,35.3,14.56666667,Asia
+MMR,Myanmar,2016,999,1.5,7.9,37.8,15.73333333,Asia
+MMR,Myanmar,2018,0,1.1,8.2,34.4,14.56666667,Asia
+MMR,Myanmar,2018,1,0.5,6.8,34,13.76666667,Asia
+MMR,Myanmar,2018,999,0.8,7.5,34.1,14.13333333,Asia
+MNE,Montenegro,2005,0,18.6,7,12.3,12.63333333,Europe
+MNE,Montenegro,2005,1,12.8,5.7,11.3,9.933333333,Europe
+MNE,Montenegro,2005,999,15.7,6.4,11.7,11.26666667,Europe
+MNE,Montenegro,2013,0,24.7,4.9,16.3,15.3,Europe
+MNE,Montenegro,2013,1,19.6,3,13.6,12.06666667,Europe
+MNE,Montenegro,2013,999,22.3,4,15,13.76666667,Europe
+MNE,Montenegro,2018,0,6.7,3.2,8.9,6.266666667,Europe
+MNE,Montenegro,2018,1,8,2,12.5,7.5,Europe
+MNE,Montenegro,2018,999,7.3,2.7,10.5,6.833333333,Europe
+MNG,Mongolia,1999,0,8.3,6.4,45.5,20.06666667,Asia
+MNG,Mongolia,1999,1,5.7,6,37.2,16.3,Asia
+MNG,Mongolia,1999,999,7,6.2,41.3,18.16666667,Asia
+MNG,Mongolia,2000,0,13.2,10.5,44.7,22.8,Asia
+MNG,Mongolia,2000,1,12.2,9.8,38.6,20.2,Asia
+MNG,Mongolia,2000,999,12.7,10.1,41.8,21.53333333,Asia
+MNG,Mongolia,2004,0,6.2,0.6,35.4,14.06666667,Asia
+MNG,Mongolia,2004,1,6,0.9,25.3,10.73333333,Asia
+MNG,Mongolia,2004,999,6.1,0.7,30.7,12.5,Asia
+MNG,Mongolia,2005,0,15.6,3.9,39.5,19.66666667,Asia
+MNG,Mongolia,2005,1,12.6,3.8,35,17.13333333,Asia
+MNG,Mongolia,2005,999,14.2,3.8,37.4,18.46666667,Asia
+MNG,Mongolia,2010,0,10.05,2.35,22.35,11.58333333,Asia
+MNG,Mongolia,2010,1,7.45,2.25,18,9.233333333,Asia
+MNG,Mongolia,2010,999,8.8,2.3,20.2,10.43333333,Asia
+MNG,Mongolia,2013,0,10.9,1.6,13.3,8.6,Asia
+MNG,Mongolia,2013,1,10,1.2,12.6,7.933333333,Asia
+MNG,Mongolia,2013,999,10.5,1.4,12.9,8.266666667,Asia
+MNG,Mongolia,2016,0,13.1,1.1,11.6,8.6,Asia
+MNG,Mongolia,2016,1,10.4,1.9,6.3,6.2,Asia
+MNG,Mongolia,2016,999,11.7,1.6,8.9,7.4,Asia
+MNG,Mongolia,2018,0,11.2,1.3,13.6,8.7,Asia
+MNG,Mongolia,2018,1,9.8,1.1,9.7,6.866666667,Asia
+MNG,Mongolia,2018,999,10.5,1.2,11.7,7.8,Asia
+MOZ,Mozambique,2001,0,9.4,12.6,86.2,36.06666667,Africa
+MOZ,Mozambique,2001,1,8.4,10.8,72.4,30.53333333,Africa
+MOZ,Mozambique,2001,999,8.8,11.7,79.1,33.2,Africa
+MOZ,Mozambique,2003,0,7.3,8,75.3,30.2,Africa
+MOZ,Mozambique,2003,1,5.4,7.1,65.5,26,Africa
+MOZ,Mozambique,2003,999,6.3,7.5,70.3,28.03333333,Africa
+MOZ,Mozambique,2008,0,4,6.2,66.8,25.66666667,Africa
+MOZ,Mozambique,2008,1,3.2,4.8,55.4,21.13333333,Africa
+MOZ,Mozambique,2008,999,3.6,5.5,61,23.36666667,Africa
+MOZ,Mozambique,2011,0,8.1,9.5,67.2,28.26666667,Africa
+MOZ,Mozambique,2011,1,7.6,7.5,59.3,24.8,Africa
+MOZ,Mozambique,2011,999,7.8,8.5,63.2,26.5,Africa
+MOZ,Mozambique,2015,0,7.6,5.9,69.1,27.53333333,Africa
+MOZ,Mozambique,2015,1,6.4,6.3,54.9,22.53333333,Africa
+MOZ,Mozambique,2015,999,7,6.1,61.8,24.96666667,Africa
+MRT,Mauritania,2000,0,3.9,25.9,59.3,29.7,Africa
+MRT,Mauritania,2000,1,3.7,19,57.8,26.83333333,Africa
+MRT,Mauritania,2000,999,3.8,22.5,58.6,28.3,Africa
+MRT,Mauritania,2007,0,2.5,18.2,47.9,22.86666667,Africa
+MRT,Mauritania,2007,1,2.2,16.7,42.6,20.5,Africa
+MRT,Mauritania,2007,999,2.3,17.4,45.4,21.7,Africa
+MRT,Mauritania,2008,0,1.3,10.7,34.1,15.36666667,Africa
+MRT,Mauritania,2008,1,0.6,7.6,25.7,11.3,Africa
+MRT,Mauritania,2008,999,1,9.2,30.1,13.43333333,Africa
+MRT,Mauritania,2011,0,2.9,19.6,43.9,22.13333333,Africa
+MRT,Mauritania,2011,1,3.5,16.2,40.7,20.13333333,Africa
+MRT,Mauritania,2011,999,3.2,17.9,42.3,21.13333333,Africa
+MRT,Mauritania,2012,0,1.1,15.5,32.9,16.5,Africa
+MRT,Mauritania,2012,1,1.2,11.5,25.1,12.6,Africa
+MRT,Mauritania,2012,999,1.2,13.6,29.1,14.63333333,Africa
+MRT,Mauritania,2015,0,1.2,20.2,41.3,20.9,Africa
+MRT,Mauritania,2015,1,1.4,16.4,37.4,18.4,Africa
+MRT,Mauritania,2015,999,1.3,18.3,39.3,19.63333333,Africa
+MRT,Mauritania,2018,0,1.4,15.9,32.9,16.73333333,Africa
+MRT,Mauritania,2018,1,1.6,11.7,25.9,13.06666667,Africa
+MRT,Mauritania,2018,999,1.5,13.8,29.4,14.9,Africa
+MWI,Malawi,1992,0,10.1,10,89.6,36.56666667,Africa
+MWI,Malawi,1992,1,9.4,7.3,78.4,31.7,Africa
+MWI,Malawi,1992,999,9.8,8.7,83.9,34.13333333,Africa
+MWI,Malawi,1998,0,16.4,13.6,107.3,45.76666667,Africa
+MWI,Malawi,1998,1,18.1,12.1,96.9,42.36666667,Africa
+MWI,Malawi,1998,999,17.3,12.8,101.9,44,Africa
+MWI,Malawi,2000,0,9.8,9.6,89.4,36.26666667,Africa
+MWI,Malawi,2000,1,7.9,9.8,80.2,32.63333333,Africa
+MWI,Malawi,2000,999,8.8,9.7,84.8,34.43333333,Africa
+MWI,Malawi,2002,0,11.1,9.8,96.8,39.23333333,Africa
+MWI,Malawi,2002,1,9,7.9,85.8,34.23333333,Africa
+MWI,Malawi,2002,999,10,8.8,91.1,36.63333333,Africa
+MWI,Malawi,2004,0,10.4,10.5,85.4,35.43333333,Africa
+MWI,Malawi,2004,1,9.9,8.5,74,30.8,Africa
+MWI,Malawi,2004,999,10.2,9.5,79.6,33.1,Africa
+MWI,Malawi,2006,0,11.9,6.6,84.7,34.4,Africa
+MWI,Malawi,2006,1,10.7,4.9,75.1,30.23333333,Africa
+MWI,Malawi,2006,999,11.3,5.7,79.9,32.3,Africa
+MWI,Malawi,2009,999,4.9,2.1,66.7,24.56666667,Africa
+MWI,Malawi,2010,0,10.1,6.1,74.8,30.33333333,Africa
+MWI,Malawi,2010,1,8,5.1,60.3,24.46666667,Africa
+MWI,Malawi,2010,999,9,5.5,67.4,27.3,Africa
+MWI,Malawi,2014,0,5.6,5.5,64.4,25.16666667,Africa
+MWI,Malawi,2014,1,4.5,4.2,52.9,20.53333333,Africa
+MWI,Malawi,2014,999,5.1,4.9,58.7,22.9,Africa
+MWI,Malawi,2015,0,5.9,4.4,51.5,20.6,Africa
+MWI,Malawi,2015,1,3.3,2.5,45.6,17.13333333,Africa
+MWI,Malawi,2015,999,4.6,3.4,48.5,18.83333333,Africa
+MWI,Malawi,2016,0,3.233333333,4.266666667,55.03333333,20.84444444,Africa
+MWI,Malawi,2016,1,1.466666667,4.633333333,47.86666667,17.98888889,Africa
+MWI,Malawi,2016,999,2.333333333,4.433333333,51.33333333,19.36666667,Africa
+MWI,Malawi,2017,0,2.4,2.6,56.3,20.43333333,Africa
+MWI,Malawi,2017,1,0.9,2.5,43.9,15.76666667,Africa
+MWI,Malawi,2017,999,1.6,2.6,50,18.06666667,Africa
+MWI,Malawi,2018,0,2.7,1.8,53.9,19.46666667,Africa
+MWI,Malawi,2018,1,2.4,0.9,47.1,16.8,Africa
+MWI,Malawi,2018,999,2.5,1.4,50.5,18.13333333,Africa
+MWI,Malawi,2019,0,4.1,0.5,57.7,20.76666667,Africa
+MWI,Malawi,2019,1,3.6,1,46.5,17.03333333,Africa
+MWI,Malawi,2019,999,3.8,0.7,52,18.83333333,Africa
+MYS,Malaysia,2006,0,6.2,20.4,24,16.86666667,Asia
+MYS,Malaysia,2006,1,5.5,15.3,23.5,14.76666667,Asia
+MYS,Malaysia,2006,999,5.8,17.9,23.7,15.8,Asia
+MYS,Malaysia,2015,0,7.7,12.5,22.5,14.23333333,Asia
+MYS,Malaysia,2015,1,6.5,9.2,23.2,12.96666667,Asia
+MYS,Malaysia,2015,999,7.1,10.8,22.9,13.6,Asia
+MYS,Malaysia,2019,0,5.8,16.9,27.5,16.73333333,Asia
+MYS,Malaysia,2019,1,4.6,9.5,29,14.36666667,Asia
+MYS,Malaysia,2019,999,5.2,13.3,28.2,15.56666667,Asia
+NAM,Namibia,1992,0,5.2,14,54.9,24.7,Africa
+NAM,Namibia,1992,1,3.9,11.6,43.4,19.63333333,Africa
+NAM,Namibia,1992,999,4.5,12.8,49,22.1,Africa
+NAM,Namibia,2000,0,3.7,14.9,42.2,20.26666667,Africa
+NAM,Namibia,2000,1,2.9,11.2,37.7,17.26666667,Africa
+NAM,Namibia,2000,999,3.3,13,39.9,18.73333333,Africa
+NAM,Namibia,2007,0,4.9,9,43.7,19.2,Africa
+NAM,Namibia,2007,1,4.4,10.1,34.9,16.46666667,Africa
+NAM,Namibia,2007,999,4.7,9.6,39.3,17.86666667,Africa
+NAM,Namibia,2013,0,3.8,13,33.8,16.86666667,Africa
+NAM,Namibia,2013,1,4.2,6.9,27.5,12.86666667,Africa
+NAM,Namibia,2013,999,4,9.9,30.6,14.83333333,Africa
+NER,Niger,1992,0,2.1,26.5,72.1,33.56666667,Africa
+NER,Niger,1992,1,1.9,24.3,65.9,30.7,Africa
+NER,Niger,1992,999,2,25.5,69.1,32.2,Africa
+NER,Niger,2000,0,1.9,24.8,86.9,37.86666667,Africa
+NER,Niger,2000,1,1.4,19.6,78.2,33.06666667,Africa
+NER,Niger,2000,999,1.7,22.3,82.7,35.56666667,Africa
+NER,Niger,2006,0,2.25,17.9,85.9,35.35,Africa
+NER,Niger,2006,1,2.05,13.55,79.6,31.73333333,Africa
+NER,Niger,2006,999,2.2,15.75,82.9,33.61666667,Africa
+NER,Niger,2007,0,0.4,17.4,73.8,30.53333333,Africa
+NER,Niger,2007,1,0.3,13.5,68.2,27.33333333,Africa
+NER,Niger,2007,999,0.3,15.5,71,28.93333333,Africa
+NER,Niger,2008,0,0.2,19.3,64.1,27.86666667,Africa
+NER,Niger,2008,1,0,14,58.1,24.03333333,Africa
+NER,Niger,2008,999,0.1,16.9,61.3,26.1,Africa
+NER,Niger,2009,0,0.2,16.4,68,28.2,Africa
+NER,Niger,2009,1,0.2,13.1,60.8,24.7,Africa
+NER,Niger,2009,999,0.2,14.8,64.4,26.46666667,Africa
+NER,Niger,2010,0,0.15,22.3,71.3,31.25,Africa
+NER,Niger,2010,1,0.1,16.25,64.3,26.88333333,Africa
+NER,Niger,2010,999,0.1,19.3,67.9,29.1,Africa
+NER,Niger,2011,0,0.1,17.1,76.1,31.1,Africa
+NER,Niger,2011,1,0.2,12.5,66.2,26.3,Africa
+NER,Niger,2011,999,0.1,14.8,71.1,28.66666667,Africa
+NER,Niger,2012,0,2.2,22.25,64.3,29.58333333,Africa
+NER,Niger,2012,1,1.65,18.7,56.3,25.55,Africa
+NER,Niger,2012,999,1.95,20.5,60.35,27.6,Africa
+NER,Niger,2013,0,0.6,17.1,62.6,26.76666667,Africa
+NER,Niger,2013,1,0.3,12.8,55.8,22.96666667,Africa
+NER,Niger,2013,999,0.4,14.9,59.2,24.83333333,Africa
+NER,Niger,2014,0,0.6,19.6,64.7,28.3,Africa
+NER,Niger,2014,1,0.5,14.1,55.8,23.46666667,Africa
+NER,Niger,2014,999,0.5,16.9,60.2,25.86666667,Africa
+NER,Niger,2015,0,0.6,19.7,71.4,30.56666667,Africa
+NER,Niger,2015,1,0.5,14.3,63,25.93333333,Africa
+NER,Niger,2015,999,0.6,17.1,67.3,28.33333333,Africa
+NER,Niger,2016,0,1.2,15.3,61.9,26.13333333,Africa
+NER,Niger,2016,1,1,9.8,55.3,22.03333333,Africa
+NER,Niger,2016,999,1.1,12.5,58.6,24.06666667,Africa
+NER,Niger,2018,0,1.3,20.8,75.1,32.4,Africa
+NER,Niger,2018,1,0.8,13.4,66.1,26.76666667,Africa
+NER,Niger,2018,999,1,17.1,70.6,29.56666667,Africa
+NER,Niger,2019,0,1.2,13.4,73,29.2,Africa
+NER,Niger,2019,1,1.5,10.9,62.2,24.86666667,Africa
+NER,Niger,2019,999,1.4,12.2,67.7,27.1,Africa
+NGA,Nigeria,1990,0,3.2,16.9,77.7,32.6,Africa
+NGA,Nigeria,1990,1,3.3,15.2,72.4,30.3,Africa
+NGA,Nigeria,1990,999,3.3,16.1,75,31.46666667,Africa
+NGA,Nigeria,2003,0,6.7,17.2,70.9,31.6,Africa
+NGA,Nigeria,2003,1,6,14.6,60.6,27.06666667,Africa
+NGA,Nigeria,2003,999,6.3,15.9,65.7,29.3,Africa
+NGA,Nigeria,2011,0,3.2,14.6,56.6,24.8,Africa
+NGA,Nigeria,2011,1,2.7,12.2,53.7,22.86666667,Africa
+NGA,Nigeria,2011,999,3,13.3,55.1,23.8,Africa
+NGA,Nigeria,2014,0,1.8,10.8,50.2,20.93333333,Africa
+NGA,Nigeria,2014,1,1.7,8.7,43.2,17.86666667,Africa
+NGA,Nigeria,2014,999,1.8,9.7,46.7,19.4,Africa
+NGA,Nigeria,2015,0,1.8,9.6,49.9,20.43333333,Africa
+NGA,Nigeria,2015,1,1.3,8.5,41.4,17.06666667,Africa
+NGA,Nigeria,2015,999,1.6,9.1,45.6,18.76666667,Africa
+NGA,Nigeria,2016,0,1.7,15.2,70.3,29.06666667,Africa
+NGA,Nigeria,2016,1,1.3,12.1,62.4,25.26666667,Africa
+NGA,Nigeria,2016,999,1.5,13.7,66.4,27.2,Africa
+NGA,Nigeria,2018,0,1.85,9.65,53.55,21.68333333,Africa
+NGA,Nigeria,2018,1,1.35,7.1,44.95,17.8,Africa
+NGA,Nigeria,2018,999,1.65,8.4,49.3,19.78333333,Africa
+NGA,Nigeria,2020,0,1.5,9.5,50.5,20.5,Africa
+NGA,Nigeria,2020,1,1.6,6.2,36.5,14.76666667,Africa
+NGA,Nigeria,2020,999,1.6,7.9,43.5,17.66666667,Africa
+NIC,Nicaragua,1993,0,5.6,4.6,43.8,18,Americas
+NIC,Nicaragua,1993,1,5.4,2.3,38.1,15.26666667,Americas
+NIC,Nicaragua,1993,999,5.5,3.4,41.1,16.66666667,Americas
+NIC,Nicaragua,1998,0,7.4,5.6,46,19.66666667,Americas
+NIC,Nicaragua,1998,1,6.5,4.1,39.5,16.7,Americas
+NIC,Nicaragua,1998,999,6.9,4.9,42.7,18.16666667,Americas
+NIC,Nicaragua,2001,0,8.3,3.8,36.4,16.16666667,Americas
+NIC,Nicaragua,2001,1,6,2.5,31.5,13.33333333,Americas
+NIC,Nicaragua,2001,999,7.2,3.2,34,14.8,Americas
+NIC,Nicaragua,2004,0,6.7,0.4,27.7,11.6,Americas
+NIC,Nicaragua,2004,1,3.7,0.3,20.4,8.133333333,Americas
+NIC,Nicaragua,2004,999,5.2,0.3,24,9.833333333,Americas
+NIC,Nicaragua,2007,0,6.7,2.1,32.1,13.63333333,Americas
+NIC,Nicaragua,2007,1,5.6,1.8,28.5,11.96666667,Americas
+NIC,Nicaragua,2007,999,6.2,2,30.3,12.83333333,Americas
+NIC,Nicaragua,2012,0,8.6,3.1,23.6,11.76666667,Americas
+NIC,Nicaragua,2012,1,7.9,2.6,20.5,10.33333333,Americas
+NIC,Nicaragua,2012,999,8.3,2.9,22.1,11.1,Americas
+NLD,Netherlands,1996,0,3,1.8,1.8,2.2,Europe
+NLD,Netherlands,1996,1,2.4,1,1.3,1.566666667,Europe
+NLD,Netherlands,1996,999,2.7,1.4,1.5,1.866666667,Europe
+NLD,Netherlands,2009,0,3.6,1.4,2,2.333333333,Europe
+NLD,Netherlands,2009,1,4,1,1.6,2.2,Europe
+NLD,Netherlands,2009,999,3.8,1.1,1.8,2.233333333,Europe
+NPL,Nepal,1998,0,0.5,10.5,92.3,34.43333333,Asia
+NPL,Nepal,1998,1,0.4,8,86.3,31.56666667,Asia
+NPL,Nepal,1998,999,0.4,9.3,89.4,33.03333333,Asia
+NPL,Nepal,2001,0,0.6,16.1,82.5,33.06666667,Asia
+NPL,Nepal,2001,1,0.7,12.3,83.3,32.1,Asia
+NPL,Nepal,2001,999,0.7,14.1,82.9,32.56666667,Asia
+NPL,Nepal,2006,0,0.6,16.1,68.7,28.46666667,Asia
+NPL,Nepal,2006,1,0.6,14.6,70.3,28.5,Asia
+NPL,Nepal,2006,999,0.6,15.4,69.4,28.46666667,Asia
+NPL,Nepal,2011,0,1.5,16,57.6,25.03333333,Asia
+NPL,Nepal,2011,1,1.6,12.2,54.8,22.86666667,Asia
+NPL,Nepal,2011,999,1.5,14.1,56.3,23.96666667,Asia
+NPL,Nepal,2014,0,2.2,15.3,51.4,22.96666667,Asia
+NPL,Nepal,2014,1,2.1,13.6,54,23.23333333,Asia
+NPL,Nepal,2014,999,2.1,14.5,52.6,23.06666667,Asia
+NPL,Nepal,2016,0,1.15,12.7,52.9,22.25,Asia
+NPL,Nepal,2016,1,0.95,12.6,48.5,20.68333333,Asia
+NPL,Nepal,2016,999,1.05,12.65,50.9,21.53333333,Asia
+NPL,Nepal,2019,0,2.8,16.8,45.4,21.66666667,Asia
+NPL,Nepal,2019,1,2.3,12.9,41.1,18.76666667,Asia
+NPL,Nepal,2019,999,2.6,14.9,43.3,20.26666667,Asia
+NRU,Nauru,2007,0,4.6,2.7,31.4,12.9,Oceania
+NRU,Nauru,2007,1,1.3,0,32.8,11.36666667,Oceania
+NRU,Nauru,2007,999,2.8,1.2,32.1,12.03333333,Oceania
+OMN,Oman,1999,0,1.7,10,20.3,10.66666667,Asia
+OMN,Oman,1999,1,1.5,8.1,17.7,9.1,Asia
+OMN,Oman,1999,999,1.6,9.1,19,9.9,Asia
+OMN,Oman,2009,0,1.5,9,13.3,7.933333333,Asia
+OMN,Oman,2009,1,2,6.7,10.2,6.3,Asia
+OMN,Oman,2009,999,1.7,7.9,11.6,7.066666667,Asia
+OMN,Oman,2014,0,4.4,10.7,22,12.36666667,Asia
+OMN,Oman,2014,1,4.4,9,16.1,9.833333333,Asia
+OMN,Oman,2014,999,4.4,9.9,19,11.1,Asia
+OMN,Oman,2017,0,4.1,10.7,16.1,10.3,Asia
+OMN,Oman,2017,1,4.2,14.2,11.9,10.1,Asia
+OMN,Oman,2017,999,4.2,12.4,14.1,10.23333333,Asia
+PAK,Pakistan,1991,0,5.2,20,90.1,38.43333333,Asia
+PAK,Pakistan,1991,1,5.6,14.5,84.4,34.83333333,Asia
+PAK,Pakistan,1991,999,5.4,17.3,87.2,36.63333333,Asia
+PAK,Pakistan,1992,0,1.3,21.8,64.2,29.1,Asia
+PAK,Pakistan,1992,1,2,22.6,62.5,29.03333333,Asia
+PAK,Pakistan,1992,999,1.6,22.2,63.4,29.06666667,Asia
+PAK,Pakistan,2001,0,4.8,21.1,64.5,30.13333333,Asia
+PAK,Pakistan,2001,1,4.7,18.5,61,28.06666667,Asia
+PAK,Pakistan,2001,999,4.8,19.9,62.8,29.16666667,Asia
+PAK,Pakistan,2011,0,6.7,22,67.5,32.06666667,Asia
+PAK,Pakistan,2011,1,6.4,19.5,63.2,29.7,Asia
+PAK,Pakistan,2011,999,6.6,20.7,65.4,30.9,Asia
+PAK,Pakistan,2013,0,4.7,14.9,75.2,31.6,Asia
+PAK,Pakistan,2013,1,4.8,12.7,63.5,27,Asia
+PAK,Pakistan,2013,999,4.8,13.8,69.4,29.33333333,Asia
+PAK,Pakistan,2018,0,2.3,10.3,56.8,23.13333333,Asia
+PAK,Pakistan,2018,1,2.6,8.7,53.2,21.5,Asia
+PAK,Pakistan,2018,999,2.5,9.5,55,22.33333333,Asia
+PAN,Panama,1997,0,6.3,1.7,25.8,11.26666667,Americas
+PAN,Panama,1997,1,6.4,1.6,21,9.666666667,Americas
+PAN,Panama,1997,999,6.4,1.6,23.3,10.43333333,Americas
+PAN,Panama,2003,0,11.1,1.9,37.6,16.86666667,Americas
+PAN,Panama,2003,1,11,2.3,31.3,14.86666667,Americas
+PAN,Panama,2003,999,11.1,2,34.5,15.86666667,Americas
+PAN,Panama,2008,0,8.6,1.4,26.7,12.23333333,Americas
+PAN,Panama,2008,1,10.8,1.8,25.6,12.73333333,Americas
+PAN,Panama,2008,999,9.7,1.5,26.1,12.43333333,Americas
+PER,Peru,1991,0,9.9,2.7,55.3,22.63333333,Americas
+PER,Peru,1991,1,8.8,2.3,48.6,19.9,Americas
+PER,Peru,1991,999,9.3,2.5,52,21.26666667,Americas
+PER,Peru,1996,0,10.9,2.5,45.3,19.56666667,Americas
+PER,Peru,1996,1,8.9,2.2,39.8,16.96666667,Americas
+PER,Peru,1996,999,9.9,2.3,42.5,18.23333333,Americas
+PER,Peru,2000,0,12.9,1.5,43.4,19.26666667,Americas
+PER,Peru,2000,1,10.7,1.6,40.5,17.6,Americas
+PER,Peru,2000,999,11.8,1.5,42,18.43333333,Americas
+PER,Peru,2005,0,11,1.2,42.6,18.26666667,Americas
+PER,Peru,2005,1,7.1,1.1,32.7,13.63333333,Americas
+PER,Peru,2005,999,9.1,1.1,37.7,15.96666667,Americas
+PER,Peru,2007,0,9.5,1.1,38,16.2,Americas
+PER,Peru,2007,1,10.4,0.8,33.1,14.76666667,Americas
+PER,Peru,2007,999,10,1,35.6,15.53333333,Americas
+PER,Peru,2009,0,11.6,1,31.2,14.6,Americas
+PER,Peru,2009,1,8.9,0.6,28.3,12.6,Americas
+PER,Peru,2009,999,10.3,0.8,29.8,13.63333333,Americas
+PER,Peru,2010,0,9.2,1.1,31.8,14.03333333,Americas
+PER,Peru,2010,1,6.9,0.6,26.1,11.2,Americas
+PER,Peru,2010,999,8,0.8,28.9,12.56666667,Americas
+PER,Peru,2011,0,10.3,0.6,25.1,12,Americas
+PER,Peru,2011,1,7.4,0.2,22.9,10.16666667,Americas
+PER,Peru,2011,999,8.8,0.5,23.9,11.06666667,Americas
+PER,Peru,2012,0,8.2,0.9,22.6,10.56666667,Americas
+PER,Peru,2012,1,6.1,0.6,21,9.233333333,Americas
+PER,Peru,2012,999,7.2,0.7,21.9,9.933333333,Americas
+PER,Peru,2013,0,9.7,0.9,22.9,11.16666667,Americas
+PER,Peru,2013,1,7.2,0.4,19.8,9.133333333,Americas
+PER,Peru,2013,999,8.5,0.6,21.4,10.16666667,Americas
+PER,Peru,2014,0,10,0.8,18.8,9.866666667,Americas
+PER,Peru,2014,1,7.6,0.6,16,8.066666667,Americas
+PER,Peru,2014,999,8.8,0.7,17.5,9,Americas
+PER,Peru,2015,0,8.7,0.9,18.4,9.333333333,Americas
+PER,Peru,2015,1,7.7,0.5,15.8,8,Americas
+PER,Peru,2015,999,8.2,0.7,17.2,8.7,Americas
+PER,Peru,2016,0,8.8,0.8,16.2,8.6,Americas
+PER,Peru,2016,1,6.5,0.6,13.9,7,Americas
+PER,Peru,2016,999,7.7,0.7,15.1,7.833333333,Americas
+PER,Peru,2017,0,9,0.7,16.1,8.6,Americas
+PER,Peru,2017,1,7.1,0.4,13.6,7.033333333,Americas
+PER,Peru,2017,999,8,0.6,14.8,7.8,Americas
+PER,Peru,2018,0,9.3,0.6,14.5,8.133333333,Americas
+PER,Peru,2018,1,7.8,0.5,13.4,7.233333333,Americas
+PER,Peru,2018,999,8.6,0.6,14,7.733333333,Americas
+PER,Peru,2019,0,9.1,0.6,14.9,8.2,Americas
+PER,Peru,2019,1,7.1,0.5,13.1,6.9,Americas
+PER,Peru,2019,999,8.1,0.5,14,7.533333333,Americas
+PHL,Philippines,2003,0,2.7,8.1,47.2,19.33333333,Asia
+PHL,Philippines,2003,1,2.2,7.1,41.1,16.8,Asia
+PHL,Philippines,2003,999,2.4,7.6,44.3,18.1,Asia
+PHL,Philippines,2008,0,3.2,8.8,43.5,18.5,Asia
+PHL,Philippines,2008,1,2.5,7.8,40.2,16.83333333,Asia
+PHL,Philippines,2008,999,2.8,8.3,41.9,17.66666667,Asia
+PHL,Philippines,2011,0,4.1,9.3,45.4,19.6,Asia
+PHL,Philippines,2011,1,3.3,8.7,41.2,17.73333333,Asia
+PHL,Philippines,2011,999,3.7,9,43.4,18.7,Asia
+PHL,Philippines,2013,0,4.9,10.4,41.1,18.8,Asia
+PHL,Philippines,2013,1,4,9.4,37.5,16.96666667,Asia
+PHL,Philippines,2013,999,4.5,10,39.3,17.93333333,Asia
+PHL,Philippines,2015,0,3.4,9.2,44.5,19.03333333,Asia
+PHL,Philippines,2015,1,3.2,7.6,42.1,17.63333333,Asia
+PHL,Philippines,2015,999,3.3,8.4,43.4,18.36666667,Asia
+PNG,Papua New Guinea,2005,0,4.2,5.7,70.2,26.7,Oceania
+PNG,Papua New Guinea,2005,1,2.5,4.8,50.9,19.4,Oceania
+PNG,Papua New Guinea,2005,999,3.4,5.2,61.5,23.36666667,Oceania
+PNG,Papua New Guinea,2010,0,14.3,20.3,72.7,35.76666667,Oceania
+PNG,Papua New Guinea,2010,1,13.1,20.7,67.3,33.7,Oceania
+PNG,Papua New Guinea,2010,999,13.7,20.5,70.1,34.76666667,Oceania
+POL,Poland,2011,0,5.4,0.8,0.7,2.3,Europe
+POL,Poland,2011,1,4.7,0.8,1.1,2.2,Europe
+POL,Poland,2011,999,5,0.7,0.9,2.2,Europe
+PRK,Democratic People's Republic of Korea,2002,0,0.7,12.9,67,26.86666667,Asia
+PRK,Democratic People's Republic of Korea,2002,1,1.1,11.5,58.6,23.73333333,Asia
+PRK,Democratic People's Republic of Korea,2002,999,0.9,12.2,63,25.36666667,Asia
+PRK,Democratic People's Republic of Korea,2009,0,0,5.4,40.8,15.4,Asia
+PRK,Democratic People's Republic of Korea,2009,1,0,5.9,40.8,15.56666667,Asia
+PRK,Democratic People's Republic of Korea,2009,999,0,5.7,40.8,15.5,Asia
+PRK,Democratic People's Republic of Korea,2017,0,2.3,3.5,23,9.6,Asia
+PRK,Democratic People's Republic of Korea,2017,1,2.3,2.5,24.9,9.9,Asia
+PRK,Democratic People's Republic of Korea,2017,999,2.3,3,23.9,9.733333333,Asia
+PRT,Portugal,2016,0,4.7,0.8,3.1,2.866666667,Europe
+PRT,Portugal,2016,1,9.8,0.7,3.8,4.766666667,Europe
+PRT,Portugal,2016,999,7.1,0.7,3.3,3.7,Europe
+PRY,Paraguay,1990,0,7.8,0.5,25.8,11.36666667,Americas
+PRY,Paraguay,1990,1,4.7,1.1,20.6,8.8,Americas
+PRY,Paraguay,1990,999,6.3,0.8,23.2,10.1,Americas
+PRY,Paraguay,2012,0,10.9,2.9,14.7,9.5,Americas
+PRY,Paraguay,2012,1,11.9,3.1,12.7,9.233333333,Americas
+PRY,Paraguay,2012,999,11.3,3,13.8,9.366666667,Americas
+PRY,Paraguay,2016,0,13,1.5,8.4,7.633333333,Americas
+PRY,Paraguay,2016,1,11.9,1.1,5.2,6.066666667,Americas
+PRY,Paraguay,2016,999,12.4,1.4,6.9,6.9,Americas
+PSE,State of Palestine,1996,0,4.3,3.8,9.4,5.833333333,Asia
+PSE,State of Palestine,1996,1,4.3,4.1,10.3,6.233333333,Asia
+PSE,State of Palestine,1996,999,4.3,3.9,9.8,6,Asia
+PSE,State of Palestine,2000,0,8.3,2.9,13.3,8.166666667,Asia
+PSE,State of Palestine,2000,1,8.3,2.5,13.8,8.2,Asia
+PSE,State of Palestine,2000,999,8.3,2.7,13.6,8.2,Asia
+PSE,State of Palestine,2004,0,9.4,5,15,9.8,Asia
+PSE,State of Palestine,2004,1,8.3,4.3,13.6,8.733333333,Asia
+PSE,State of Palestine,2004,999,8.8,4.6,14.4,9.266666667,Asia
+PSE,State of Palestine,2006,0,13.4,2.4,19.5,11.76666667,Asia
+PSE,State of Palestine,2006,1,9.4,2.5,17.2,9.7,Asia
+PSE,State of Palestine,2006,999,11.4,2.5,18.4,10.76666667,Asia
+PSE,State of Palestine,2010,0,6,4.5,15.6,8.7,Asia
+PSE,State of Palestine,2010,1,4.6,4.3,13,7.3,Asia
+PSE,State of Palestine,2010,999,5.3,4.3,14.3,7.966666667,Asia
+PSE,State of Palestine,2014,0,9.1,1.5,10,6.866666667,Asia
+PSE,State of Palestine,2014,1,7.1,1.5,8.3,5.633333333,Asia
+PSE,State of Palestine,2014,999,8.2,1.5,9.2,6.3,Asia
+PSE,State of Palestine,2020,0,10.2,2,11,7.733333333,Asia
+PSE,State of Palestine,2020,1,6.9,1.9,11.1,6.633333333,Asia
+PSE,State of Palestine,2020,999,8.6,1.9,11.1,7.2,Asia
+ROU,Romania,1999,0,10.2,4.8,24.3,13.1,Europe
+ROU,Romania,1999,1,10,3.8,17.6,10.46666667,Europe
+ROU,Romania,1999,999,10.1,4.4,21.1,11.86666667,Europe
+ROU,Romania,2000,0,9.4,6,20.5,11.96666667,Europe
+ROU,Romania,2000,1,8.5,4.9,15.1,9.5,Europe
+ROU,Romania,2000,999,8.9,5.4,17.8,10.7,Europe
+ROU,Romania,2001,0,9.1,5.3,22.2,12.2,Europe
+ROU,Romania,2001,1,9,4.4,16,9.8,Europe
+ROU,Romania,2001,999,9.1,4.9,19.2,11.06666667,Europe
+ROU,Romania,2002,0,8.6,4.2,19.2,10.66666667,Europe
+ROU,Romania,2002,1,8.1,4.2,14.6,8.966666667,Europe
+ROU,Romania,2002,999,8.3,4.2,17,9.833333333,Europe
+RWA,Rwanda,1992,0,4.3,8.4,89.4,34.03333333,Africa
+RWA,Rwanda,1992,1,3.7,5.4,78.8,29.3,Africa
+RWA,Rwanda,1992,999,4,6.8,84.1,31.63333333,Africa
+RWA,Rwanda,2000,0,7.4,13.5,76.4,32.43333333,Africa
+RWA,Rwanda,2000,1,6.9,11.5,66.1,28.16666667,Africa
+RWA,Rwanda,2000,999,7.1,12.5,71.1,30.23333333,Africa
+RWA,Rwanda,2005,0,7.2,6.7,79.5,31.13333333,Africa
+RWA,Rwanda,2005,1,6.2,6.4,72.2,28.26666667,Africa
+RWA,Rwanda,2005,999,6.7,6.6,75.8,29.7,Africa
+RWA,Rwanda,2010,0,6.9,4.5,67.1,26.16666667,Africa
+RWA,Rwanda,2010,1,7,3.1,55.8,21.96666667,Africa
+RWA,Rwanda,2010,999,6.9,3.8,61.5,24.06666667,Africa
+RWA,Rwanda,2012,0,6.3,3.6,63,24.3,Africa
+RWA,Rwanda,2012,1,5.6,2.2,56.2,21.33333333,Africa
+RWA,Rwanda,2012,999,6,2.9,59.5,22.8,Africa
+RWA,Rwanda,2015,0,7.4,3.2,58.2,22.93333333,Africa
+RWA,Rwanda,2015,1,6.15,2.15,44.3,17.53333333,Africa
+RWA,Rwanda,2015,999,6.75,2.7,51.25,20.23333333,Africa
+RWA,Rwanda,2018,0,3.1,2.7,50.1,18.63333333,Africa
+RWA,Rwanda,2018,1,1.8,2,40,14.6,Africa
+RWA,Rwanda,2018,999,2.4,2.3,45.1,16.6,Africa
+RWA,Rwanda,2020,0,5.8,0.9,48,18.23333333,Africa
+RWA,Rwanda,2020,1,5.4,1.7,36.7,14.6,Africa
+RWA,Rwanda,2020,999,5.6,1.3,42.3,16.4,Africa
+SAU,Saudi Arabia,2004,0,6.3,17.8,13.9,12.66666667,Asia
+SAU,Saudi Arabia,2004,1,6,14.7,9.9,10.2,Asia
+SAU,Saudi Arabia,2004,999,6.1,16.3,11.9,11.43333333,Asia
+SDN,Sudan,2006,0,4.1,20.9,59.8,28.26666667,Africa
+SDN,Sudan,2006,1,4.4,19.4,55.8,26.53333333,Africa
+SDN,Sudan,2006,999,4.2,20.2,57.8,27.4,Africa
+SDN,Sudan,2010,0,1.7,21.2,52.3,25.06666667,Africa
+SDN,Sudan,2010,1,1.4,17.6,45,21.33333333,Africa
+SDN,Sudan,2010,999,1.5,19.5,48.7,23.23333333,Africa
+SDN,Sudan,2014,0,3.2,22,60.8,28.66666667,Africa
+SDN,Sudan,2014,1,2.8,19.5,51.9,24.73333333,Africa
+SDN,Sudan,2014,999,3,20.8,56.4,26.73333333,Africa
+SEN,Senegal,1993,0,4.1,13.8,46.1,21.33333333,Africa
+SEN,Senegal,1993,1,3.9,11.2,39.1,18.06666667,Africa
+SEN,Senegal,1993,999,4,12.4,42.5,19.63333333,Africa
+SEN,Senegal,2000,0,3,14.9,39.8,19.23333333,Africa
+SEN,Senegal,2000,1,3.4,10.9,31.2,15.16666667,Africa
+SEN,Senegal,2000,999,3.2,12.9,35.6,17.23333333,Africa
+SEN,Senegal,2005,0,3.2,10.9,28.8,14.3,Africa
+SEN,Senegal,2005,1,1.8,10.9,25.5,12.73333333,Africa
+SEN,Senegal,2005,999,2.5,11,27.2,13.56666667,Africa
+SEN,Senegal,2011,0,2.8,12,39.5,18.1,Africa
+SEN,Senegal,2011,1,2.7,12.2,35.5,16.8,Africa
+SEN,Senegal,2011,999,2.7,12.1,37.6,17.46666667,Africa
+SEN,Senegal,2012,0,0.8,11.4,21.5,11.23333333,Africa
+SEN,Senegal,2012,1,0.6,8.3,16.6,8.5,Africa
+SEN,Senegal,2012,999,0.7,9.9,19.1,9.9,Africa
+SEN,Senegal,2013,0,1.7,12,27.1,13.6,Africa
+SEN,Senegal,2013,1,1.2,9.9,21.6,10.9,Africa
+SEN,Senegal,2013,999,1.4,10.9,24.4,12.23333333,Africa
+SEN,Senegal,2014,0,1.7,7,26.4,11.7,Africa
+SEN,Senegal,2014,1,0.9,6.3,21.4,9.533333333,Africa
+SEN,Senegal,2014,999,1.3,6.6,24,10.63333333,Africa
+SEN,Senegal,2015,0,1.2,9.8,28.6,13.2,Africa
+SEN,Senegal,2015,1,0.9,8.6,23.3,10.93333333,Africa
+SEN,Senegal,2015,999,1,9.3,26,12.1,Africa
+SEN,Senegal,2016,0,0.7,9.4,24.4,11.5,Africa
+SEN,Senegal,2016,1,1.1,7.3,18.6,9,Africa
+SEN,Senegal,2016,999,0.9,8.3,21.6,10.26666667,Africa
+SEN,Senegal,2017,0,0.7,11.4,22.7,11.6,Africa
+SEN,Senegal,2017,1,1.1,9.6,18.9,9.866666667,Africa
+SEN,Senegal,2017,999,0.9,10.5,20.8,10.73333333,Africa
+SEN,Senegal,2018,0,1.6,9.5,27.3,12.8,Africa
+SEN,Senegal,2018,1,1.3,8.5,19.6,9.8,Africa
+SEN,Senegal,2018,999,1.5,9,23.5,11.33333333,Africa
+SEN,Senegal,2019,0,2.4,11.05,26.25,13.23333333,Africa
+SEN,Senegal,2019,1,2.5,8.55,21.9,10.98333333,Africa
+SEN,Senegal,2019,999,2.45,9.8,24.1,12.11666667,Africa
+SLB,Solomon Islands,1989,0,2.3,11,46.7,20,Oceania
+SLB,Solomon Islands,1989,1,1.5,7.6,39.6,16.23333333,Oceania
+SLB,Solomon Islands,1989,999,1.9,9.4,43.3,18.2,Oceania
+SLB,Solomon Islands,2007,0,2.2,3.6,46.1,17.3,Oceania
+SLB,Solomon Islands,2007,1,2.8,7.9,36.4,15.7,Oceania
+SLB,Solomon Islands,2007,999,2.5,5.7,41.3,16.5,Oceania
+SLB,Solomon Islands,2015,0,4.6,12.1,45.8,20.83333333,Oceania
+SLB,Solomon Islands,2015,1,4.4,12,38.8,18.4,Oceania
+SLB,Solomon Islands,2015,999,4.5,12.1,42.4,19.66666667,Oceania
+SLE,Sierra Leone,2000,0,5.4,17.4,59.7,27.5,Africa
+SLE,Sierra Leone,2000,1,4.2,13.6,46.7,21.5,Africa
+SLE,Sierra Leone,2000,999,4.8,15.5,53.3,24.53333333,Africa
+SLE,Sierra Leone,2005,0,6.3,16.2,74.8,32.43333333,Africa
+SLE,Sierra Leone,2005,1,5.5,12.6,65.1,27.73333333,Africa
+SLE,Sierra Leone,2005,999,5.9,14.4,69.9,30.06666667,Africa
+SLE,Sierra Leone,2010,0,1.4,10.2,47.3,19.63333333,Africa
+SLE,Sierra Leone,2010,1,1.5,8.1,37,15.53333333,Africa
+SLE,Sierra Leone,2010,999,1.4,9.1,42.1,17.53333333,Africa
+SLE,Sierra Leone,2014,0,2,6.6,42.7,17.1,Africa
+SLE,Sierra Leone,2014,1,2.3,4.6,33.1,13.33333333,Africa
+SLE,Sierra Leone,2014,999,2.1,5.6,37.9,15.2,Africa
+SLE,Sierra Leone,2017,0,3.8,9.05,45.85,19.56666667,Africa
+SLE,Sierra Leone,2017,1,2.45,6.1,35.9,14.81666667,Africa
+SLE,Sierra Leone,2017,999,3.1,7.6,40.8,17.16666667,Africa
+SLE,Sierra Leone,2019,0,5,6.7,44.2,18.63333333,Africa
+SLE,Sierra Leone,2019,1,4.1,6.1,36.1,15.43333333,Africa
+SLE,Sierra Leone,2019,999,4.5,6.5,40.2,17.06666667,Africa
+SLV,El Salvador,1988,0,3.8,3,52.6,19.8,Americas
+SLV,El Salvador,1988,1,2.2,2.2,45,16.46666667,Americas
+SLV,El Salvador,1988,999,3,2.7,48.8,18.16666667,Americas
+SLV,El Salvador,1993,0,3.5,2.3,44.1,16.63333333,Americas
+SLV,El Salvador,1993,1,3.8,1.6,40,15.13333333,Americas
+SLV,El Salvador,1993,999,3.7,2,42.1,15.93333333,Americas
+SLV,El Salvador,1998,0,4.6,2.3,44,16.96666667,Americas
+SLV,El Salvador,1998,1,3.2,1.6,39.9,14.9,Americas
+SLV,El Salvador,1998,999,3.9,1.9,42.1,15.96666667,Americas
+SLV,El Salvador,2003,0,6.6,1.7,32.1,13.46666667,Americas
+SLV,El Salvador,2003,1,4.8,1.5,29.6,11.96666667,Americas
+SLV,El Salvador,2003,999,5.8,1.6,30.9,12.76666667,Americas
+SLV,El Salvador,2008,0,6.3,3.1,26.8,12.06666667,Americas
+SLV,El Salvador,2008,1,5,0.9,24.6,10.16666667,Americas
+SLV,El Salvador,2008,999,5.7,2.1,25.7,11.16666667,Americas
+SLV,El Salvador,2014,0,6.2,3.1,18.6,9.3,Americas
+SLV,El Salvador,2014,1,6.6,1.9,14.2,7.566666667,Americas
+SLV,El Salvador,2014,999,6.4,2.5,16.3,8.4,Americas
+SOM,Somalia,2006,0,4.9,19.1,68.4,30.8,Africa
+SOM,Somalia,2006,1,4.6,16,64.1,28.23333333,Africa
+SOM,Somalia,2006,999,4.7,17.7,66.3,29.56666667,Africa
+SOM,Somalia,2009,0,2.8,20.5,39,20.76666667,Africa
+SOM,Somalia,2009,1,3.1,16.6,31.1,16.93333333,Africa
+SOM,Somalia,2009,999,3,18.6,35.2,18.93333333,Africa
+SRB,Serbia,2005,0,20.4,6.7,12.1,13.06666667,Europe
+SRB,Serbia,2005,1,18.2,5.9,11.4,11.83333333,Europe
+SRB,Serbia,2005,999,19.3,6.3,11.8,12.46666667,Europe
+SRB,Serbia,2010,0,16.6,3.4,8.6,9.533333333,Europe
+SRB,Serbia,2010,1,14.7,5,10.9,10.2,Europe
+SRB,Serbia,2010,999,15.6,4.3,9.8,9.9,Europe
+SRB,Serbia,2014,0,15.6,5.2,9.2,10,Europe
+SRB,Serbia,2014,1,12,4.8,7.2,8,Europe
+SRB,Serbia,2014,999,13.9,5,8.3,9.066666667,Europe
+SRB,Serbia,2019,0,12.7,3.9,10.4,9,Europe
+SRB,Serbia,2019,1,8.9,2.3,3.6,4.933333333,Europe
+SRB,Serbia,2019,999,10.9,3.1,7.3,7.1,Europe
+SSD,South Sudan,2006,0,10.7,39.6,63.1,37.8,Africa
+SSD,South Sudan,2006,1,11.2,35.3,52.8,33.1,Africa
+SSD,South Sudan,2006,999,10.9,37.5,58.1,35.5,Africa
+SSD,South Sudan,2010,0,6.1,37.4,52,31.83333333,Africa
+SSD,South Sudan,2010,1,5.9,27.8,44.9,26.2,Africa
+SSD,South Sudan,2010,999,6,32.6,48.5,29.03333333,Africa
+STP,Sao Tome and Principe,2014,0,2.6,5.4,26.6,11.53333333,Africa
+STP,Sao Tome and Principe,2014,1,2.2,4.1,17,7.766666667,Africa
+STP,Sao Tome and Principe,2014,999,2.4,4.8,21.7,9.633333333,Africa
+STP,Sao Tome and Principe,2019,0,5.6,7.6,16.6,9.933333333,Africa
+STP,Sao Tome and Principe,2019,1,3.4,3.3,12.7,6.466666667,Africa
+STP,Sao Tome and Principe,2019,999,4.5,5.5,14.6,8.2,Africa
+SUR,Suriname,2000,0,3,9.3,21.8,11.36666667,Americas
+SUR,Suriname,2000,1,2.7,8.5,14,8.4,Americas
+SUR,Suriname,2000,999,2.9,9,18.1,10,Americas
+SUR,Suriname,2006,0,4.6,6.1,13.5,8.066666667,Americas
+SUR,Suriname,2006,1,3.4,5.8,12,7.066666667,Americas
+SUR,Suriname,2006,999,4,5.9,12.7,7.533333333,Americas
+SUR,Suriname,2010,0,5,6.6,12.5,8.033333333,Americas
+SUR,Suriname,2010,1,3,5,9.4,5.8,Americas
+SUR,Suriname,2010,999,4,5.8,11,6.933333333,Americas
+SUR,Suriname,2018,0,3.3,7.7,12.7,7.9,Americas
+SUR,Suriname,2018,1,3.8,5.4,8.2,5.8,Americas
+SUR,Suriname,2018,999,3.5,6.5,10.4,6.8,Americas
+SWZ,Eswatini,2000,0,15.9,2.2,55.7,24.6,Africa
+SWZ,Eswatini,2000,1,13.9,2.7,47.3,21.3,Africa
+SWZ,Eswatini,2000,999,14.9,2.4,51.6,22.96666667,Africa
+SWZ,Eswatini,2006,0,11.5,4.6,45.1,20.4,Africa
+SWZ,Eswatini,2006,1,10.7,3.6,34.6,16.3,Africa
+SWZ,Eswatini,2006,999,11.1,4.1,39.8,18.33333333,Africa
+SWZ,Eswatini,2010,0,10.1,0.6,45.7,18.8,Africa
+SWZ,Eswatini,2010,1,11.2,1.6,36.5,16.43333333,Africa
+SWZ,Eswatini,2010,999,10.7,1.2,40.9,17.6,Africa
+SWZ,Eswatini,2014,0,9,2.8,38.1,16.63333333,Africa
+SWZ,Eswatini,2014,1,8.9,1.9,27.4,12.73333333,Africa
+SWZ,Eswatini,2014,999,9,2.4,32.8,14.73333333,Africa
+SYC,Seychelles,2012,999,10.2,5.5,10.9,8.866666667,Africa
+SYR,Syrian Arab Republic,1993,0,15.6,17.1,52.4,28.36666667,Asia
+SYR,Syrian Arab Republic,1993,1,14.4,11.8,47.8,24.66666667,Asia
+SYR,Syrian Arab Republic,1993,999,15,14.5,50.1,26.53333333,Asia
+SYR,Syrian Arab Republic,2001,0,20.2,16.1,52.6,29.63333333,Asia
+SYR,Syrian Arab Republic,2001,1,19.1,15,46.2,26.76666667,Asia
+SYR,Syrian Arab Republic,2001,999,19.7,15.5,49.5,28.23333333,Asia
+SYR,Syrian Arab Republic,2006,0,19.3,16.7,47.4,27.8,Asia
+SYR,Syrian Arab Republic,2006,1,18.1,13.4,41.1,24.2,Asia
+SYR,Syrian Arab Republic,2006,999,18.7,15.1,44.4,26.06666667,Asia
+SYR,Syrian Arab Republic,2010,0,17.8,18.4,45.8,27.33333333,Asia
+SYR,Syrian Arab Republic,2010,1,18.1,15.5,41,24.86666667,Asia
+SYR,Syrian Arab Republic,2010,999,17.9,17,43.5,26.13333333,Asia
+TCD,Chad,1997,0,3,24.8,72,33.26666667,Africa
+TCD,Chad,1997,1,2.4,20.4,66.1,29.63333333,Africa
+TCD,Chad,1997,999,2.7,22.6,69,31.43333333,Africa
+TCD,Chad,2000,0,3.1,18,62.2,27.76666667,Africa
+TCD,Chad,2000,1,2.4,18.1,55.9,25.46666667,Africa
+TCD,Chad,2000,999,2.7,18.1,59,26.6,Africa
+TCD,Chad,2004,0,4.2,24,72.4,33.53333333,Africa
+TCD,Chad,2004,1,4.3,21.4,69.1,31.6,Africa
+TCD,Chad,2004,999,4.2,22.7,70.8,32.56666667,Africa
+TCD,Chad,2010,0,2.5,24.7,62.5,29.9,Africa
+TCD,Chad,2010,1,3,20.6,56.7,26.76666667,Africa
+TCD,Chad,2010,999,2.8,22.6,59.6,28.33333333,Africa
+TCD,Chad,2015,0,2.8,20,63.7,28.83333333,Africa
+TCD,Chad,2015,1,2.8,15.3,59.6,25.9,Africa
+TCD,Chad,2015,999,2.8,17.7,61.7,27.4,Africa
+TCD,Chad,2017,0,2.1,19.2,49.2,23.5,Africa
+TCD,Chad,2017,1,2,14.9,39,18.63333333,Africa
+TCD,Chad,2017,999,2,17.1,44.1,21.06666667,Africa
+TCD,Chad,2019,0,2.2,18.6,54.45,25.08333333,Africa
+TCD,Chad,2019,1,1.95,14.35,47.65,21.31666667,Africa
+TCD,Chad,2019,999,2.05,16.5,51.15,23.23333333,Africa
+TGO,Togo,2009,0,1,8.3,38.7,16,Africa
+TGO,Togo,2009,1,1.2,5.9,32.7,13.26666667,Africa
+TGO,Togo,2009,999,1.1,7.1,35.8,14.66666667,Africa
+TGO,Togo,2010,0,1.3,6.75,40.4,16.15,Africa
+TGO,Togo,2010,1,0.95,4.6,33.9,13.15,Africa
+TGO,Togo,2010,999,1.15,5.65,37.2,14.66666667,Africa
+TGO,Togo,2012,0,1.8,6.9,39,15.9,Africa
+TGO,Togo,2012,1,1.5,5.6,29.7,12.26666667,Africa
+TGO,Togo,2012,999,1.7,6.2,34.4,14.1,Africa
+TGO,Togo,2014,0,1.8,9.2,38.7,16.56666667,Africa
+TGO,Togo,2014,1,2.2,7,36.6,15.26666667,Africa
+TGO,Togo,2014,999,2,8.1,37.7,15.93333333,Africa
+TGO,Togo,2017,0,1.4,7.5,34.2,14.36666667,Africa
+TGO,Togo,2017,1,1.6,6.2,26.6,11.46666667,Africa
+TGO,Togo,2017,999,1.5,6.8,30.5,12.93333333,Africa
+THA,Thailand,2006,0,8.8,6.1,20.2,11.7,Asia
+THA,Thailand,2006,1,7.2,6,17.6,10.26666667,Asia
+THA,Thailand,2006,999,8,6.1,19,11.03333333,Asia
+THA,Thailand,2012,0,10.1,10.2,22,14.1,Asia
+THA,Thailand,2012,1,11.6,7.8,22.6,14,Asia
+THA,Thailand,2012,999,10.9,8.9,22.3,14.03333333,Asia
+THA,Thailand,2016,0,8.8,6.8,14.6,10.06666667,Asia
+THA,Thailand,2016,1,7.5,6.8,11.5,8.6,Asia
+THA,Thailand,2016,999,8.2,6.8,13.1,9.366666667,Asia
+THA,Thailand,2019,0,9.7,11,20.4,13.7,Asia
+THA,Thailand,2019,1,8.7,9.8,14.7,11.06666667,Asia
+THA,Thailand,2019,999,9.2,10.4,17.7,12.43333333,Asia
+TJK,Tajikistan,2005,0,7.3,13,51.1,23.8,Asia
+TJK,Tajikistan,2005,1,6.2,11.3,42.7,20.06666667,Asia
+TJK,Tajikistan,2005,999,6.8,12.2,47,22,Asia
+TJK,Tajikistan,2007,0,11,10.2,60.4,27.2,Asia
+TJK,Tajikistan,2007,1,13.1,9.4,54.8,25.76666667,Asia
+TJK,Tajikistan,2007,999,12,9.9,57.7,26.53333333,Asia
+TJK,Tajikistan,2009,0,4.5,6.6,40.6,17.23333333,Asia
+TJK,Tajikistan,2009,1,4,4.5,34.7,14.4,Asia
+TJK,Tajikistan,2009,999,4.2,5.6,37.7,15.83333333,Asia
+TJK,Tajikistan,2012,0,6.9,14.2,37.2,19.43333333,Asia
+TJK,Tajikistan,2012,1,6.4,13.8,37.5,19.23333333,Asia
+TJK,Tajikistan,2012,999,6.7,14,37.4,19.36666667,Asia
+TJK,Tajikistan,2016,0,3.9,4.9,26.8,11.86666667,Asia
+TJK,Tajikistan,2016,1,3.5,4.5,23.4,10.46666667,Asia
+TJK,Tajikistan,2016,999,3.7,4.7,25.2,11.2,Asia
+TJK,Tajikistan,2017,0,3.5,8.2,22.8,11.5,Asia
+TJK,Tajikistan,2017,1,3.2,6.5,21.2,10.3,Asia
+TJK,Tajikistan,2017,999,3.3,7.4,22,10.9,Asia
+TKM,Turkmenistan,2006,0,3.8,9.5,27.6,13.63333333,Asia
+TKM,Turkmenistan,2006,1,5.2,9.2,22.4,12.26666667,Asia
+TKM,Turkmenistan,2006,999,4.5,9.3,25.1,12.96666667,Asia
+TKM,Turkmenistan,2015,0,6,5.7,14.2,8.633333333,Asia
+TKM,Turkmenistan,2015,1,5.7,4.9,14.1,8.233333333,Asia
+TKM,Turkmenistan,2015,999,5.9,5.3,14.2,8.466666667,Asia
+TKM,Turkmenistan,2019,0,3.7,6,9.9,6.533333333,Asia
+TKM,Turkmenistan,2019,1,2.4,4.3,9.2,5.3,Asia
+TKM,Turkmenistan,2019,999,3.1,5.2,9.6,5.966666667,Asia
+TLS,Timor-Leste,2002,0,5,21.4,93.4,39.93333333,Asia
+TLS,Timor-Leste,2002,1,6.5,15.6,81.7,34.6,Asia
+TLS,Timor-Leste,2002,999,5.7,18.6,87.6,37.3,Asia
+TLS,Timor-Leste,2007,0,1.7,30.8,78.8,37.1,Asia
+TLS,Timor-Leste,2007,1,1.3,20.8,82.7,34.93333333,Asia
+TLS,Timor-Leste,2007,999,1.5,25.8,80.8,36.03333333,Asia
+TLS,Timor-Leste,2009,0,5.9,28.7,93.7,42.76666667,Asia
+TLS,Timor-Leste,2009,1,5.7,24.2,87,38.96666667,Asia
+TLS,Timor-Leste,2009,999,5.8,26.5,90.3,40.86666667,Asia
+TLS,Timor-Leste,2013,0,1.5,14.7,79.9,32.03333333,Asia
+TLS,Timor-Leste,2013,1,1.7,9.3,68.5,26.5,Asia
+TLS,Timor-Leste,2013,999,1.6,12,74.5,29.36666667,Asia
+TON,Tonga,2012,0,18.6,7.3,13.9,13.26666667,Oceania
+TON,Tonga,2012,1,16,7.4,11,11.46666667,Oceania
+TON,Tonga,2012,999,17.3,7.3,12.5,12.36666667,Oceania
+TON,Tonga,2019,0,12.2,1.9,3.8,5.966666667,Oceania
+TON,Tonga,2019,1,9.9,1,2.3,4.4,Oceania
+TON,Tonga,2019,999,11.2,1.5,3.2,5.3,Oceania
+TTO,Trinidad and Tobago,2000,0,3.8,6.6,10,6.8,Americas
+TTO,Trinidad and Tobago,2000,1,6.2,5.7,5.3,5.733333333,Americas
+TTO,Trinidad and Tobago,2000,999,5,6.1,7.7,6.266666667,Americas
+TTO,Trinidad and Tobago,2011,0,13,7.7,18.7,13.13333333,Americas
+TTO,Trinidad and Tobago,2011,1,9.8,9.3,9.7,9.6,Americas
+TTO,Trinidad and Tobago,2011,999,11.4,8.5,14.1,11.33333333,Americas
+TUN,Tunisia,2006,0,8.5,5,12.2,8.566666667,Africa
+TUN,Tunisia,2006,1,9.2,4.3,10.3,7.933333333,Africa
+TUN,Tunisia,2006,999,8.8,4.6,11.3,8.233333333,Africa
+TUN,Tunisia,2012,0,14.8,5.7,15.6,12.03333333,Africa
+TUN,Tunisia,2012,1,13.7,3,11.9,9.533333333,Africa
+TUN,Tunisia,2012,999,14.3,4.5,13.8,10.86666667,Africa
+TUN,Tunisia,2018,0,18,3,11.9,10.96666667,Africa
+TUN,Tunisia,2018,1,16.5,3.1,12.6,10.73333333,Africa
+TUN,Tunisia,2018,999,17.2,3,12.3,10.83333333,Africa
+TUR,Turkey,1993,0,5.7,5.7,33.3,14.9,Asia
+TUR,Turkey,1993,1,4.1,4.2,30.9,13.06666667,Asia
+TUR,Turkey,1993,999,4.9,4.9,32.1,13.96666667,Asia
+TUR,Turkey,1998,0,4.1,4.5,26.7,11.76666667,Asia
+TUR,Turkey,1998,1,3.4,3,25.8,10.73333333,Asia
+TUR,Turkey,1998,999,3.8,3.8,26.2,11.26666667,Asia
+TUR,Turkey,2004,0,10.2,2.2,18.5,10.3,Asia
+TUR,Turkey,2004,1,7.2,0.7,21.8,9.9,Asia
+TUR,Turkey,2004,999,8.8,1.5,20,10.1,Asia
+TUR,Turkey,2008,0,11,2,15.3,9.433333333,Asia
+TUR,Turkey,2008,1,8.5,0.5,17.4,8.8,Asia
+TUR,Turkey,2008,999,9.8,1.3,16.2,9.1,Asia
+TUR,Turkey,2013,0,11.9,2.1,15,9.666666667,Asia
+TUR,Turkey,2013,1,10.2,2.7,11.9,8.266666667,Asia
+TUR,Turkey,2013,999,11.1,2.4,13.6,9.033333333,Asia
+TUR,Turkey,2018,0,9.3,2.2,7.6,6.366666667,Asia
+TUR,Turkey,2018,1,6.8,2.5,7.3,5.533333333,Asia
+TUR,Turkey,2018,999,8.1,2.3,7.5,5.966666667,Asia
+TUV,Tuvalu,2007,0,7.4,5,12.7,8.366666667,Oceania
+TUV,Tuvalu,2007,1,5.2,3.5,13.9,7.533333333,Oceania
+TUV,Tuvalu,2007,999,6.3,4.2,13.3,7.933333333,Oceania
+TZA,United Republic of Tanzania,1991,0,5.9,12.1,78.6,32.2,Africa
+TZA,United Republic of Tanzania,1991,1,5.6,9.3,67,27.3,Africa
+TZA,United Republic of Tanzania,1991,999,5.8,10.6,72.8,29.73333333,Africa
+TZA,United Republic of Tanzania,1996,0,5,13.3,78,32.1,Africa
+TZA,United Republic of Tanzania,1996,1,4.2,9.5,67.7,27.13333333,Africa
+TZA,United Republic of Tanzania,1996,999,4.6,11.4,72.9,29.63333333,Africa
+TZA,United Republic of Tanzania,1999,0,4.7,7.5,75.1,29.1,Africa
+TZA,United Republic of Tanzania,1999,1,1.8,7.8,66.4,25.33333333,Africa
+TZA,United Republic of Tanzania,1999,999,3.3,7.6,70.8,27.23333333,Africa
+TZA,United Republic of Tanzania,2004,0,5.5,5.4,66.8,25.9,Africa
+TZA,United Republic of Tanzania,2004,1,4.3,3.6,57.6,21.83333333,Africa
+TZA,United Republic of Tanzania,2004,999,4.9,4.5,62.1,23.83333333,Africa
+TZA,United Republic of Tanzania,2009,0,5,3.5,65.2,24.56666667,Africa
+TZA,United Republic of Tanzania,2009,1,4.5,3.9,56.6,21.66666667,Africa
+TZA,United Republic of Tanzania,2009,999,4.7,3.7,60.7,23.03333333,Africa
+TZA,United Republic of Tanzania,2010,0,5.8,7.6,64.5,25.96666667,Africa
+TZA,United Republic of Tanzania,2010,1,4.9,4.8,53.2,20.96666667,Africa
+TZA,United Republic of Tanzania,2010,999,5.4,6.2,58.8,23.46666667,Africa
+TZA,United Republic of Tanzania,2011,0,5.9,7.9,49.3,21.03333333,Africa
+TZA,United Republic of Tanzania,2011,1,4.4,8,44.6,19,Africa
+TZA,United Republic of Tanzania,2011,999,5.1,7.9,47,20,Africa
+TZA,United Republic of Tanzania,2013,0,4.8,5.6,55.3,21.9,Africa
+TZA,United Republic of Tanzania,2013,1,5.3,6.3,47.8,19.8,Africa
+TZA,United Republic of Tanzania,2013,999,5.1,5.9,51.5,20.83333333,Africa
+TZA,United Republic of Tanzania,2014,999,3.5,4.7,46.2,18.13333333,Africa
+TZA,United Republic of Tanzania,2015,0,3.8,6.4,49.5,19.9,Africa
+TZA,United Republic of Tanzania,2015,1,3.6,5,42.9,17.16666667,Africa
+TZA,United Republic of Tanzania,2015,999,3.7,5.7,46.2,18.53333333,Africa
+TZA,United Republic of Tanzania,2018,999,2.8,3.9,41.8,16.16666667,Africa
+UGA,Uganda,1988,0,3.6,4.1,75.5,27.73333333,Africa
+UGA,Uganda,1988,1,3.7,4,62.5,23.4,Africa
+UGA,Uganda,1988,999,3.6,4,68.9,25.5,Africa
+UGA,Uganda,2000,0,5.4,7.8,70,27.73333333,Africa
+UGA,Uganda,2000,1,4.5,5.2,59.4,23.03333333,Africa
+UGA,Uganda,2000,999,4.9,6.5,64.7,25.36666667,Africa
+UGA,Uganda,2006,0,5.1,9.9,58,24.33333333,Africa
+UGA,Uganda,2006,1,4.7,6.8,49.3,20.26666667,Africa
+UGA,Uganda,2006,999,4.9,8.4,53.7,22.33333333,Africa
+UGA,Uganda,2009,0,4.2,7.2,59.5,23.63333333,Africa
+UGA,Uganda,2009,1,2.2,4.5,47.5,18.06666667,Africa
+UGA,Uganda,2009,999,3.2,5.8,53.7,20.9,Africa
+UGA,Uganda,2011,0,4.4,5.7,52.8,20.96666667,Africa
+UGA,Uganda,2011,1,3.2,6.5,41.6,17.1,Africa
+UGA,Uganda,2011,999,3.8,6.1,47.2,19.03333333,Africa
+UGA,Uganda,2012,0,7.3,5.1,49.8,20.73333333,Africa
+UGA,Uganda,2012,1,4.5,4,44,17.5,Africa
+UGA,Uganda,2012,999,5.8,4.5,46.7,19,Africa
+UGA,Uganda,2014,0,4.3,5.1,49.9,19.76666667,Africa
+UGA,Uganda,2014,1,2.9,4.5,42.2,16.53333333,Africa
+UGA,Uganda,2014,999,3.6,4.7,46.1,18.13333333,Africa
+UGA,Uganda,2016,0,4.9,5.7,42.1,17.56666667,Africa
+UGA,Uganda,2016,1,2.6,3.9,34.2,13.56666667,Africa
+UGA,Uganda,2016,999,3.7,4.8,38.2,15.56666667,Africa
+UKR,Ukraine,2000,0,27.3,12.4,36,25.23333333,Europe
+UKR,Ukraine,2000,1,25.5,11.5,35,24,Europe
+UKR,Ukraine,2000,999,26.5,12,35.6,24.7,Europe
+URY,Uruguay,2002,0,10.2,3.2,21.4,11.6,Americas
+URY,Uruguay,2002,1,9.8,2.5,17.6,9.966666667,Americas
+URY,Uruguay,2002,999,10,2.9,19.5,10.8,Americas
+URY,Uruguay,2004,0,10.1,3.7,21.7,11.83333333,Americas
+URY,Uruguay,2004,1,8.6,3.6,15.5,9.233333333,Americas
+URY,Uruguay,2004,999,9.4,3.7,18.6,10.56666667,Americas
+URY,Uruguay,2013,0,10.5,1.9,6.6,6.333333333,Americas
+URY,Uruguay,2013,1,9.6,0.7,4.4,4.9,Americas
+URY,Uruguay,2013,999,10.1,1.3,5.5,5.633333333,Americas
+URY,Uruguay,2016,0,9.9,1.3,13.2,8.133333333,Americas
+URY,Uruguay,2016,1,10.9,0.6,14.8,8.766666667,Americas
+URY,Uruguay,2016,999,10.4,0.9,14,8.433333333,Americas
+URY,Uruguay,2018,0,11,2,8.9,7.3,Americas
+URY,Uruguay,2018,1,11.8,1.3,6.8,6.633333333,Americas
+URY,Uruguay,2018,999,11.4,1.6,7.9,6.966666667,Americas
+USA,United States,1991,0,6.4,0.7,3.6,3.566666667,Americas
+USA,United States,1991,1,5.9,0.5,3.5,3.3,Americas
+USA,United States,1991,999,6.1,0.6,3.6,3.433333333,Americas
+USA,United States,2000,0,9.3,1.1,4.6,5,Americas
+USA,United States,2000,1,7.2,0.2,2.8,3.4,Americas
+USA,United States,2000,999,8.3,0.6,3.8,4.233333333,Americas
+USA,United States,2002,0,8.2,0.6,4.7,4.5,Americas
+USA,United States,2002,1,6.9,0.1,2.1,3.033333333,Americas
+USA,United States,2002,999,7.6,0.3,3.4,3.766666667,Americas
+USA,United States,2004,0,8.1,0.7,3,3.933333333,Americas
+USA,United States,2004,1,10.8,0.9,2.9,4.866666667,Americas
+USA,United States,2004,999,9.4,0.7,3,4.366666667,Americas
+USA,United States,2006,0,8,0.7,5.2,4.633333333,Americas
+USA,United States,2006,1,7.9,1.4,1.8,3.7,Americas
+USA,United States,2006,999,8,1.1,3.5,4.2,Americas
+USA,United States,2008,0,7.1,0.9,3.6,3.866666667,Americas
+USA,United States,2008,1,7.6,0.5,1.9,3.333333333,Americas
+USA,United States,2008,999,7.4,0.7,2.8,3.633333333,Americas
+USA,United States,2010,0,11,0.2,3.2,4.8,Americas
+USA,United States,2010,1,7,0,2.9,3.3,Americas
+USA,United States,2010,999,9,0.1,3,4.033333333,Americas
+USA,United States,2012,0,5.7,0.2,3.4,3.1,Americas
+USA,United States,2012,1,7.2,0.5,1.8,3.166666667,Americas
+USA,United States,2012,999,6.4,0.3,2.6,3.1,Americas
+USA,United States,2014,0,7.8,0.6,2.8,3.733333333,Americas
+USA,United States,2014,1,8.6,0,2.4,3.666666667,Americas
+USA,United States,2014,999,8.2,0.3,2.6,3.7,Americas
+USA,United States,2016,0,10.6,0.7,5,5.433333333,Americas
+USA,United States,2016,1,8.2,0.2,3.4,3.933333333,Americas
+USA,United States,2016,999,9.4,0.5,4.2,4.7,Americas
+USA,United States,2018,0,12.8,0.2,2.9,5.3,Americas
+USA,United States,2018,1,5.7,0,4.9,3.533333333,Americas
+USA,United States,2018,999,9.4,0.1,3.8,4.433333333,Americas
+UZB,Uzbekistan,2002,0,11.5,12.5,37,20.33333333,Asia
+UZB,Uzbekistan,2002,1,10.5,13.2,34.2,19.3,Asia
+UZB,Uzbekistan,2002,999,11,12.9,35.7,19.86666667,Asia
+UZB,Uzbekistan,2006,0,12.6,7.2,26.7,15.5,Asia
+UZB,Uzbekistan,2006,1,11.8,4.8,27.5,14.7,Asia
+UZB,Uzbekistan,2006,999,12.2,6,27.1,15.1,Asia
+UZB,Uzbekistan,2017,0,5.4,2.2,13.8,7.133333333,Asia
+UZB,Uzbekistan,2017,1,3.6,2,11.9,5.833333333,Asia
+UZB,Uzbekistan,2017,999,4.6,2.1,12.9,6.533333333,Asia
+VNM,Viet Nam,1993,0,3.3,9.1,93.3,35.23333333,Asia
+VNM,Viet Nam,1993,1,2.5,6.9,89,32.8,Asia
+VNM,Viet Nam,1993,999,2.9,8,91.2,34.03333333,Asia
+VNM,Viet Nam,1999,0,2,15.2,64.3,27.16666667,Asia
+VNM,Viet Nam,1999,1,1.6,12.3,57.8,23.9,Asia
+VNM,Viet Nam,1999,999,1.8,13.8,61.1,25.56666667,Asia
+VNM,Viet Nam,2000,0,2.5,8.3,59.4,23.4,Asia
+VNM,Viet Nam,2000,1,2.6,5.9,59.7,22.73333333,Asia
+VNM,Viet Nam,2000,999,2.6,7.1,59.6,23.1,Asia
+VNM,Viet Nam,2002,999,2.6,11.3,51.3,21.73333333,Asia
+VNM,Viet Nam,2003,999,2.2,13.7,48.1,21.33333333,Asia
+VNM,Viet Nam,2004,999,2.7,14.1,45.5,20.76666667,Asia
+VNM,Viet Nam,2005,999,2.6,13.5,45,20.36666667,Asia
+VNM,Viet Nam,2006,999,3.1,12.4,42.7,19.4,Asia
+VNM,Viet Nam,2007,999,2.9,12.5,43.6,19.66666667,Asia
+VNM,Viet Nam,2008,999,3,12.2,40.2,18.46666667,Asia
+VNM,Viet Nam,2009,999,5.6,10.9,39.8,18.76666667,Asia
+VNM,Viet Nam,2010,0,5.5,5.5,30.4,13.8,Asia
+VNM,Viet Nam,2010,1,3.4,5.1,26.9,11.8,Asia
+VNM,Viet Nam,2010,999,4.5,5.3,28.7,12.83333333,Asia
+VNM,Viet Nam,2013,999,4.6,7.9,35.4,15.96666667,Asia
+VNM,Viet Nam,2014,999,3.5,11.6,34.6,16.56666667,Asia
+VNM,Viet Nam,2015,999,5.3,7.8,32.8,15.3,Asia
+VNM,Viet Nam,2017,999,5.9,7,30.7,14.53333333,Asia
+VUT,Vanuatu,2008,0,5.4,8.1,39.8,17.76666667,Oceania
+VUT,Vanuatu,2008,1,4,7.5,26.7,12.73333333,Oceania
+VUT,Vanuatu,2008,999,4.7,7.8,33.6,15.36666667,Oceania
+VUT,Vanuatu,2013,0,5.2,7.4,47.5,20.03333333,Oceania
+VUT,Vanuatu,2013,1,4.7,5.1,31.9,13.9,Oceania
+VUT,Vanuatu,2013,999,4.9,6.2,39.9,17,Oceania
+WSM,Samoa,2014,0,6.2,4.3,7.9,6.133333333,Oceania
+WSM,Samoa,2014,1,4.4,6.3,5.3,5.333333333,Oceania
+WSM,Samoa,2014,999,5.3,5.2,6.7,5.733333333,Oceania
+YEM,Yemen,1991,0,4.8,22.2,63.6,30.2,Asia
+YEM,Yemen,1991,1,10.8,17.3,85.1,37.73333333,Asia
+YEM,Yemen,1991,999,8.1,19.5,75.4,34.33333333,Asia
+YEM,Yemen,1997,0,3.7,24.7,89.6,39.33333333,Asia
+YEM,Yemen,1997,1,3.8,21.6,82.9,36.1,Asia
+YEM,Yemen,1997,999,3.7,23.3,86.4,37.8,Asia
+YEM,Yemen,2003,0,4.7,24,94.6,41.1,Asia
+YEM,Yemen,2003,1,5.1,19.2,92.3,38.86666667,Asia
+YEM,Yemen,2003,999,4.9,21.7,93.5,40.03333333,Asia
+YEM,Yemen,2005,0,5.7,20.6,95,40.43333333,Asia
+YEM,Yemen,2005,1,6.9,15.7,86.4,36.33333333,Asia
+YEM,Yemen,2005,999,6.3,18.2,90.9,38.46666667,Asia
+YEM,Yemen,2011,0,1.4,19.2,69.5,30.03333333,Asia
+YEM,Yemen,2011,1,1.6,14,67.2,27.6,Asia
+YEM,Yemen,2011,999,1.5,16.7,68.4,28.86666667,Asia
+YEM,Yemen,2013,0,2.4,23.8,72.2,32.8,Asia
+YEM,Yemen,2013,1,2.5,19.6,66.6,29.56666667,Asia
+YEM,Yemen,2013,999,2.5,21.8,69.4,31.23333333,Asia
+ZAF,South Africa,2008,0,14.5,6.6,36.1,19.06666667,Africa
+ZAF,South Africa,2008,1,11.9,7.7,32.4,17.33333333,Africa
+ZAF,South Africa,2008,999,13.2,7.2,34.2,18.2,Africa
+ZAF,South Africa,2015,0,15.6,5.9,31.7,17.73333333,Africa
+ZAF,South Africa,2015,1,11.6,3.9,22.6,12.7,Africa
+ZAF,South Africa,2015,999,13.6,4.8,27.1,15.16666667,Africa
+ZAF,South Africa,2016,0,15.5,2.8,42.4,20.23333333,Africa
+ZAF,South Africa,2016,1,11,3.2,32.4,15.53333333,Africa
+ZAF,South Africa,2016,999,13.3,3.1,37.5,17.96666667,Africa
+ZAF,South Africa,2017,0,11.6,5.5,33.5,16.86666667,Africa
+ZAF,South Africa,2017,1,11.6,4.6,23.1,13.1,Africa
+ZAF,South Africa,2017,999,11.6,5.1,28.3,15,Africa
+ZMB,Zambia,1992,0,5.2,8.4,72.4,28.66666667,Africa
+ZMB,Zambia,1992,1,4.2,8.6,60.2,24.33333333,Africa
+ZMB,Zambia,1992,999,4.7,8.5,66.2,26.46666667,Africa
+ZMB,Zambia,1996,0,6.4,8.6,75.5,30.16666667,Africa
+ZMB,Zambia,1996,1,6,5.5,67.7,26.4,Africa
+ZMB,Zambia,1996,999,6.2,7,71.6,28.26666667,Africa
+ZMB,Zambia,1999,0,13.3,7.5,94.4,38.4,Africa
+ZMB,Zambia,1999,1,14.7,6.1,92.7,37.83333333,Africa
+ZMB,Zambia,1999,999,14,6.8,93.6,38.13333333,Africa
+ZMB,Zambia,2002,0,6.4,9.2,83.3,32.96666667,Africa
+ZMB,Zambia,2002,1,5.4,7.8,77,30.06666667,Africa
+ZMB,Zambia,2002,999,5.9,8.5,80.1,31.5,Africa
+ZMB,Zambia,2007,0,8.6,8.3,73,29.96666667,Africa
+ZMB,Zambia,2007,1,8.3,7.5,62,25.93333333,Africa
+ZMB,Zambia,2007,999,8.4,7.9,67.4,27.9,Africa
+ZMB,Zambia,2013,0,6.6,9.3,61.6,25.83333333,Africa
+ZMB,Zambia,2013,1,5.9,8.2,53.3,22.46666667,Africa
+ZMB,Zambia,2013,999,6.2,8.7,57.4,24.1,Africa
+ZMB,Zambia,2018,0,5.4,6.4,51.9,21.23333333,Africa
+ZMB,Zambia,2018,1,5,5.1,41.1,17.06666667,Africa
+ZMB,Zambia,2018,999,5.2,5.7,46.4,19.1,Africa
+ZWE,Zimbabwe,1988,0,6.8,1.9,45.4,18.03333333,Africa
+ZWE,Zimbabwe,1988,1,3.9,2.2,37.1,14.4,Africa
+ZWE,Zimbabwe,1988,999,5.4,2.1,41.3,16.26666667,Africa
+ZWE,Zimbabwe,1999,0,10.8,13.1,51.2,25.03333333,Africa
+ZWE,Zimbabwe,1999,1,10.2,11.7,44.7,22.2,Africa
+ZWE,Zimbabwe,1999,999,10.5,12.4,48,23.63333333,Africa
+ZWE,Zimbabwe,2005,0,9.4,10.4,53.9,24.56666667,Africa
+ZWE,Zimbabwe,2005,1,8.3,9.7,46,21.33333333,Africa
+ZWE,Zimbabwe,2005,999,8.8,10.1,49.9,22.93333333,Africa
+ZWE,Zimbabwe,2009,0,4.3,3.3,50.4,19.33333333,Africa
+ZWE,Zimbabwe,2009,1,2.7,2.5,42.5,15.9,Africa
+ZWE,Zimbabwe,2009,999,3.5,2.9,46.5,17.63333333,Africa
+ZWE,Zimbabwe,2010,0,6.7,4.7,49,20.13333333,Africa
+ZWE,Zimbabwe,2010,1,4.9,3.3,37.9,15.36666667,Africa
+ZWE,Zimbabwe,2010,999,5.8,4,43.4,17.73333333,Africa
+ZWE,Zimbabwe,2014,0,3.6,4.6,40.8,16.33333333,Africa
+ZWE,Zimbabwe,2014,1,3.5,3.4,29.9,12.26666667,Africa
+ZWE,Zimbabwe,2014,999,3.6,3.9,35.4,14.3,Africa
+ZWE,Zimbabwe,2015,0,6.2,4.6,40.8,17.2,Africa
+ZWE,Zimbabwe,2015,1,5.1,4.2,31.5,13.6,Africa
+ZWE,Zimbabwe,2015,999,5.6,4.4,36.1,15.36666667,Africa
+ZWE,Zimbabwe,2019,0,2.9,3.4,33.4,13.23333333,Africa
+ZWE,Zimbabwe,2019,1,2.2,3.1,25.1,10.13333333,Africa
+ZWE,Zimbabwe,2019,999,2.5,3.2,29.2,11.63333333,Africa
